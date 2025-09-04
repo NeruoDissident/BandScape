@@ -305,6 +305,9 @@ html, body, #root {
   color: #222;
   white-space: normal;
 }
+.info-content .website { margin: 6px 0 0; }
+.info-content .website a { color: #0b79d0; text-decoration: none; word-break: break-word; }
+.info-content .website a:hover { text-decoration: underline; }
 
 .info-links { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }
 .info-links a { color: #0b79d0; text-decoration: none; font-size: 13px; }

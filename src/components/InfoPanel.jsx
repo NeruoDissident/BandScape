@@ -7,9 +7,32 @@ function InfoPanel() {
     return null
   }
 
-  const { name, type, image_url, location, description, start_date, end_date, link_urls } = selectedNode
+  const { name, type, image_url, location, description, start_date, end_date, youtube_url, link_urls } = selectedNode
   const typeClass = (type || '').toLowerCase()
   const years = start_date || end_date ? `${start_date || ''}${start_date && end_date ? ' — ' : ''}${end_date || (start_date ? 'Present' : '')}` : ''
+  
+  // Extract a YouTube video ID from common URL formats
+  const getYouTubeId = (url) => {
+    if (!url) return null
+    try {
+      const u = new URL(url)
+      // https://www.youtube.com/watch?v=VIDEO_ID
+      if ((u.hostname.includes('youtube.com')) && u.searchParams.get('v')) {
+        return u.searchParams.get('v')
+      }
+      // https://youtu.be/VIDEO_ID
+      if (u.hostname === 'youtu.be') {
+        return u.pathname.replace('/', '') || null
+      }
+      // Shorts: https://www.youtube.com/shorts/VIDEO_ID
+      if (u.hostname.includes('youtube.com') && u.pathname.startsWith('/shorts/')) {
+        return u.pathname.split('/')[2] || null
+      }
+    } catch (_) { /* noop */ }
+    return null
+  }
+
+  const youtubeId = type === 'band' && youtube_url ? getYouTubeId(youtube_url) : null
 
   return (
     <div className="info-panel">
@@ -20,7 +43,7 @@ function InfoPanel() {
         </h3>
         {years && <div className="info-years">{years}</div>}
         
-        {image_url && (
+        {type === 'member' && image_url && (
           <img 
             src={image_url} 
             alt={name}
@@ -41,6 +64,16 @@ function InfoPanel() {
           <p className="description">{description}</p>
         )}
 
+        {type === 'band' && youtube_url && youtubeId && (
+          <a href={youtube_url} target="_blank" rel="noreferrer">
+            <img 
+              src={`https://img.youtube.com/vi/${youtubeId}/hqdefault.jpg`} 
+              alt={`${name} YouTube thumbnail`}
+              className="info-image"
+            />
+          </a>
+        )}
+
         {Array.isArray(link_urls) && link_urls.length > 0 && (
           <div className="info-links">
             {link_urls.map((u, i) => (
@@ -56,3 +89,4 @@ function InfoPanel() {
 }
 
 export default InfoPanel
+

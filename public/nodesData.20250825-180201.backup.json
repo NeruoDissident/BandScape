@@ -371,7 +371,7 @@
       "city": "Poway, CA",
       "country": "United States"
     },
-    "start_date": 2005,
+    "start_date": null,
     "end_date": null,
     "origin": "Poway, CA",
     "tag_ids": []
@@ -391,7 +391,7 @@
       "city": "San Diego, CA",
       "country": "United States"
     },
-    "start_date": 2011,
+    "start_date": null,
     "end_date": null,
     "origin": "San Diego, CA",
     "tag_ids": [
@@ -413,7 +413,7 @@
       "city": "Baldwin, NY",
       "country": "United States"
     },
-    "start_date": 2019,
+    "start_date": null,
     "end_date": null,
     "origin": "Baldwin, NY",
     "tag_ids": []
@@ -433,8 +433,8 @@
       "city": "San Diego, CA",
       "country": "United States"
     },
-    "start_date": 2005,
-    "end_date": 2011,
+    "start_date": null,
+    "end_date": null,
     "origin": "San Diego, CA",
     "tag_ids": []
   },
@@ -453,8 +453,8 @@
       "city": "Poway, CA",
       "country": "United States"
     },
-    "start_date": 2005,
-    "end_date": 2007,
+    "start_date": null,
+    "end_date": null,
     "origin": "Poway, CA",
     "tag_ids": []
   },
@@ -473,8 +473,8 @@
       "city": "Pottsville, PA",
       "country": "United States"
     },
-    "start_date": 2007,
-    "end_date": 2014,
+    "start_date": null,
+    "end_date": null,
     "origin": "Pottsville, PA",
     "tag_ids": []
   },
@@ -488,7 +488,7 @@
     "website_url": "https://thrice.net",
     "socials": {},
     "location": null,
-    "start_date": 2014,
+    "start_date": null,
     "end_date": null,
     "origin": "Irvine, CA",
     "tag_ids": []
@@ -515,9 +515,7 @@
     "id": "member_20",
     "type": "member",
     "name": "Rob Aston",
-    "aliases": [
-      "Skinhead Rob"
-    ],
+    "aliases": [],
     "description": "Robert \"Skinhead Rob\" Aston (born 1978) is an American rapper and vocalist. He is a founding member of rap-rock band Transplants, serving as co-vocalist with Tim Armstrong and Travis Barker. Aston is also the lead singer of D-beat punk band Death March and was part of hip-hop trio Expensive Taste. His style blends punk rock energy with hip-hop vocals.",
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/Skinhead_Rob",
@@ -538,7 +536,7 @@
     "website_url": "https://en.wikipedia.org/wiki/Kevin_Bivona",
     "socials": {},
     "location": null,
-    "start_date": 2011,
+    "start_date": null,
     "end_date": null,
     "origin": "Van Nuys, CA",
     "tag_ids": []
@@ -567,15 +565,13 @@
     "id": "member_22",
     "type": "member",
     "name": "Dan Andriano",
-    "aliases": [
-      "Dan Andriano in the Emergency Room"
-    ],
+    "aliases": [],
     "description": "Dan Andriano (born 1977) is an American musician best known as co-lead singer and bassist of punk rock band Alkaline Trio. He joined Alkaline Trio in 1997 and has appeared on all their albums, providing melodic bass lines and vocals. Outside the band, Andriano records solo music as \"Dan Andriano in the Emergency Room\" and has toured with acts like Chuck Ragan.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Dan_Andriano.JPG",
     "website_url": "https://danandriano.com",
     "socials": {},
     "location": null,
-    "start_date": 1997,
+    "start_date": null,
     "end_date": null,
     "origin": "Elgin, IL",
     "tag_ids": []
@@ -591,7 +587,7 @@
     "socials": {},
     "location": null,
     "start_date": null,
-    "end_date": 1997,
+    "end_date": null,
     "origin": "Chicago, IL",
     "tag_ids": []
   },
@@ -605,8 +601,8 @@
     "website_url": "https://en.wikipedia.org/wiki/Alkaline_Trio",
     "socials": {},
     "location": null,
-    "start_date": 1996,
-    "end_date": 2000,
+    "start_date": null,
+    "end_date": null,
     "origin": "Chicago, IL",
     "tag_ids": []
   },
@@ -620,8 +616,8 @@
     "website_url": "https://en.wikipedia.org/wiki/Mike_Felumlee",
     "socials": {},
     "location": null,
-    "start_date": 1999,
-    "end_date": 2001,
+    "start_date": null,
+    "end_date": null,
     "origin": "Algonquin, IL",
     "tag_ids": []
   },
@@ -635,8 +631,8 @@
     "website_url": "https://en.wikipedia.org/wiki/Derek_Grant",
     "socials": {},
     "location": null,
-    "start_date": 2001,
-    "end_date": 2023,
+    "start_date": null,
+    "end_date": null,
     "origin": "Detroit, MI",
     "tag_ids": []
   },
@@ -649,13 +645,7 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Used-3011_%2818215394714%29.jpg",
     "website_url": "https://theused.net",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
+    "location": null,
     "start_date": null,
     "end_date": null,
     "origin": "Orem, UT",
@@ -677,14 +667,8 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/Bert_McCracken",
     "socials": {},
-    "location": {
-      "city": "Provo",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.23,
-      "longitude": -111.67
-    },
-    "start_date": 2001,
+    "location": null,
+    "start_date": null,
     "end_date": null,
     "origin": "Provo, UT",
     "tag_ids": []
@@ -693,21 +677,13 @@
     "id": "member_28",
     "type": "member",
     "name": "Jeph Howard",
-    "aliases": [
-      "Jeph"
-    ],
+    "aliases": [],
     "description": "Joseph \"Jeph\" Howard (born 1978) is an American musician known as the bassist and backing vocalist for rock band The Used. He co-founded The Used in 2001 and has played on every album. Howard’s bass lines drive the band’s blend of emo and post-hardcore. He also occasionally plays keyboards and contributes to songwriting.",
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
-    "start_date": 2001,
+    "location": null,
+    "start_date": null,
     "end_date": null,
     "origin": "Orem, UT",
     "tag_ids": []
@@ -721,14 +697,8 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
-    "start_date": 2006,
+    "location": null,
+    "start_date": null,
     "end_date": null,
     "origin": "Salt Lake City, UT",
     "tag_ids": []
@@ -742,14 +712,8 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Monterey",
-      "state": "California",
-      "country": "USA",
-      "latitude": 36.6,
-      "longitude": -121.9
-    },
-    "start_date": 2015,
+    "location": null,
+    "start_date": null,
     "end_date": null,
     "origin": "Orem, UT",
     "tag_ids": []
@@ -763,15 +727,9 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
-    "start_date": 2001,
-    "end_date": 2015,
+    "location": null,
+    "start_date": null,
+    "end_date": null,
     "origin": "Orem, UT",
     "tag_ids": []
   },
@@ -780,19 +738,13 @@
     "type": "member",
     "name": "Justin Shekoski",
     "aliases": [],
-    "description": "American guitarist and songwriter.",
+    "description": "",
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orange County",
-      "state": "California",
-      "country": "USA",
-      "latitude": 33.72,
-      "longitude": -117.83
-    },
-    "start_date": 2015,
-    "end_date": 2018,
+    "location": null,
+    "start_date": null,
+    "end_date": null,
     "origin": "Orange, CA",
     "tag_ids": []
   },
@@ -805,13 +757,7 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nine_Inch_Nails_-20.06.2022-O2_Apollo_Manchester.jpg",
     "website_url": "https://www.nin.com",
     "socials": {},
-    "location": {
-      "city": "Cleveland",
-      "state": "Ohio",
-      "country": "USA",
-      "latitude": 41.5,
-      "longitude": -81.69
-    },
+    "location": null,
     "start_date": null,
     "end_date": null,
     "origin": "Cleveland, OH",
@@ -824,18 +770,12 @@
     "type": "member",
     "name": "Trent Reznor",
     "aliases": [],
-    "description": "American musician and composer, best known as the founder and primary songwriter of industrial rock band Nine Inch Nails.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/TrentReznor.jpg",
     "website_url": "https://www.nin.com",
     "socials": {},
-    "location": {
-      "city": "Mercer",
-      "state": "Pennsylvania",
-      "country": "USA",
-      "latitude": 41.23,
-      "longitude": -80.24
-    },
-    "start_date": 1988,
+    "location": null,
+    "start_date": null,
     "end_date": null,
     "origin": "New Castle, PA",
     "tag_ids": []
@@ -845,18 +785,12 @@
     "type": "member",
     "name": "Atticus Ross",
     "aliases": [],
-    "description": "English composer and music producer.",
+    "description": "",
     "image_url": "",
     "website_url": "https://www.nin.com",
     "socials": {},
-    "location": {
-      "city": "Ladbroke Grove",
-      "state": "London",
-      "country": "UK",
-      "latitude": 51.5176,
-      "longitude": -0.2102
-    },
-    "start_date": 2016,
+    "location": null,
+    "start_date": null,
     "end_date": null,
     "origin": "London, UK",
     "tag_ids": []
@@ -866,12 +800,12 @@
     "type": "member",
     "name": "Robin Finck",
     "aliases": [],
-    "description": "American guitarist known for his work with Nine Inch Nails and Guns N’ Roses.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Robin_Finck_performing_with_Nine_Inch_Nails--June_2009.jpg",
     "website_url": "https://robinfinck.com",
     "socials": {},
     "location": null,
-    "start_date": 2008,
+    "start_date": null,
     "end_date": null,
     "origin": "Park Ridge, NJ",
     "tag_ids": []
@@ -881,12 +815,12 @@
     "type": "member",
     "name": "Alessandro Cortini",
     "aliases": [],
-    "description": "Italian musician, best known as a long-time member of Nine Inch Nails.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Alessandro_Cortini.jpg",
     "website_url": "https://www.alessandrocortini.com",
     "socials": {},
     "location": null,
-    "start_date": 2005,
+    "start_date": null,
     "end_date": null,
     "origin": "Bologna, Italy",
     "tag_ids": []
@@ -896,13 +830,13 @@
     "type": "member",
     "name": "Josh Freese",
     "aliases": [],
-    "description": "American drummer and session musician.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Josh_Freese%2C_Coachella_2022.jpg",
     "website_url": "https://www.thejoshfreese.com",
     "socials": {},
     "location": null,
-    "start_date": 2005,
-    "end_date": 2008,
+    "start_date": null,
+    "end_date": null,
     "origin": "Orlando, FL",
     "tag_ids": []
   },
@@ -910,10 +844,8 @@
     "id": "member_38",
     "type": "member",
     "name": "Danny Lohner",
-    "aliases": [
-      "Renholdër"
-    ],
-    "description": "American musician.",
+    "aliases": [],
+    "description": "",
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/Danny_Lohner",
     "socials": {},
@@ -927,16 +859,14 @@
     "id": "member_39",
     "type": "member",
     "name": "Jeordie White",
-    "aliases": [
-      "Twiggy Ramirez"
-    ],
-    "description": "American bassist and guitarist.",
+    "aliases": [],
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Twiggy_by_CH_Villa.jpg",
     "website_url": "https://en.wikipedia.org/wiki/Twiggy_Ramirez",
     "socials": {},
     "location": null,
-    "start_date": 2013,
-    "end_date": 2014,
+    "start_date": null,
+    "end_date": null,
     "origin": "Fort Lauderdale, FL",
     "tag_ids": []
   },
@@ -967,12 +897,12 @@
     "type": "member",
     "name": "Hayley Williams",
     "aliases": [],
-    "description": "American singer and songwriter.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Hayley_Paramore.jpg",
     "website_url": "https://www.hayleywilliams.net",
     "socials": {},
     "location": null,
-    "start_date": 2004,
+    "start_date": null,
     "end_date": null,
     "origin": "Meridian, MS",
     "tag_ids": []
@@ -997,12 +927,12 @@
     "type": "member",
     "name": "Zac Farro",
     "aliases": [],
-    "description": "American musician, best known as the drummer of Paramore.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Zac_Farro_Warped_Tour_2007.jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2004,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": [
@@ -1014,13 +944,13 @@
     "type": "member",
     "name": "Josh Farro",
     "aliases": [],
-    "description": "American musician, best known as the co-founder and former guitarist of Paramore.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Josh_Farro_from_Paramore.jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2004,
-    "end_date": 2010,
+    "start_date": null,
+    "end_date": null,
     "origin": null,
     "tag_ids": []
   },
@@ -1029,12 +959,12 @@
     "type": "member",
     "name": "Jason Bynum",
     "aliases": [],
-    "description": "American guitarist.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jason_Bynum.jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2004,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1044,13 +974,13 @@
     "type": "member",
     "name": "Hunter Lamb",
     "aliases": [],
-    "description": "American guitarist.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2004,
-    "end_date": 2007,
+    "start_date": null,
+    "end_date": null,
     "origin": null,
     "tag_ids": []
   },
@@ -1059,13 +989,13 @@
     "type": "member",
     "name": "Jeremy Davis",
     "aliases": [],
-    "description": "American bassist, known as a founding member of Paramore.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Paramore_Jeremy_Davis01.jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2004,
-    "end_date": 2015,
+    "start_date": null,
+    "end_date": null,
     "origin": null,
     "tag_ids": []
   },
@@ -1074,12 +1004,12 @@
     "type": "member",
     "name": "John Hembree",
     "aliases": [],
-    "description": "American bassist",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2005,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1091,7 +1021,7 @@
     "aliases": [],
     "description": "All Time Low is an American pop-punk band formed in Towson, Maryland, in 2003. The band members are Alex Gaskarth (lead vocals, rhythm guitar), Jack Barakat (lead guitar), Zack Merrick (bass/backing vocals), and Rian Dawson (drums). All Time Low gained mainstream success in the mid-2000s with albums like So Wrong, It’s Right (2007) and Nothing Personal (2009).",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/All_Time_Low.jpg",
-    "website_url": "https://alltimelow.com/",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1170,12 +1100,12 @@
     "type": "member",
     "name": "Chris Cortilello",
     "aliases": [],
-    "description": "American bassist known as an early member of pop-punk band All Time Low.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2003,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1185,12 +1115,12 @@
     "type": "member",
     "name": "TJ Ihle",
     "aliases": [],
-    "description": "American guitarist known as one of the original members of pop-punk band All Time Low.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2003,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1200,14 +1130,14 @@
     "type": "band",
     "name": "NOFX",
     "aliases": [],
-    "description": "American punk rock band",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nofxleeds.png",
-    "website_url": "https://www.nofxofficialwebsite.com/",
+    "website_url": null,
     "socials": {},
-    "location": "Los Angeles",
-    "start_date": 1983,
+    "location": null,
+    "start_date": null,
     "end_date": null,
-    "origin": "American",
+    "origin": null,
     "tag_ids": [
       "genre_punk_rock",
       "genre_melodic_hardcore",
@@ -1220,15 +1150,13 @@
     "id": "member_54",
     "type": "member",
     "name": "Fat Mike (Michael Burkett)",
-    "aliases": [
-      "Michael Burkett"
-    ],
-    "description": "American musician, best known as the founder, bassist, and lead vocalist of punk rock band NOFX.",
+    "aliases": [],
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/FatMike2011.jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 1983,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1238,12 +1166,12 @@
     "type": "member",
     "name": "Eric Melvin",
     "aliases": [],
-    "description": "American musician and founding member of punk rock band NOFX.",
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Eric_Melvin.jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 1983,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1252,15 +1180,13 @@
     "id": "member_56",
     "type": "member",
     "name": "Erik Sandin",
-    "aliases": [
-      "Smelly"
-    ],
-    "description": "American drummer and founding member of punk band NOFX.",
+    "aliases": [],
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eric_Sandin.jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 1985,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1269,15 +1195,13 @@
     "id": "member_57",
     "type": "member",
     "name": "El Hefe (Aaron Abeyta)",
-    "aliases": [
-      "El Hefe"
-    ],
-    "description": "American guitarist and vocalist.",
+    "aliases": [],
+    "description": "",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/El_Hefe(6070909173).jpg",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 1991,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1287,13 +1211,13 @@
     "type": "member",
     "name": "Dave Casillas",
     "aliases": [],
-    "description": "American guitarist known as an early member of punk band NOFX.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 1987,
-    "end_date": 1989,
+    "start_date": null,
+    "end_date": null,
     "origin": null,
     "tag_ids": []
   },
@@ -1302,13 +1226,13 @@
     "type": "member",
     "name": "Steve Kidwiler",
     "aliases": [],
-    "description": "American guitarist.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 1989,
-    "end_date": 1991,
+    "start_date": null,
+    "end_date": null,
     "origin": null,
     "tag_ids": []
   },
@@ -1318,13 +1242,13 @@
     "name": "Taking Back Sunday",
     "aliases": [],
     "description": "Taking Back Sunday is an American rock band from Long Island, New York, formed in 1999. The original lineup featured vocalists Jesse Lacey and Adam Lazzara, guitarist John Nolan, bassist Shaun Cooper, and drummer Mark O'Connell. Lazzara became lead vocalist in 2001 and the band went on to release influential albums like Tell All Your Friends (2002) and Where You Want to Be (2004). Taking Back Sunday remains active, known for its catchy emo/alternative rock sound, and continues to tour and release new music.",
-    "image_url": "https://www.gettyimages.com/photos/taking-back-sunday-band",
-    "website_url": "https://takingbacksunday.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
-    "location": "Long Island, New York",
-    "start_date": 1999,
+    "location": null,
+    "start_date": null,
     "end_date": null,
-    "origin": "American",
+    "origin": null,
     "tag_ids": [
       "genre_emo",
       "genre_post_hardcore",
@@ -1337,12 +1261,12 @@
     "type": "member",
     "name": "Adam Lazzara",
     "aliases": [],
-    "description": "American singer and songwriter, best known as the lead vocalist of rock band Taking Back Sunday.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2001,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1352,12 +1276,12 @@
     "type": "member",
     "name": "John Nolan",
     "aliases": [],
-    "description": "American musician, best known as the co-founding guitarist of Taking Back Sunday.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2010,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1367,12 +1291,12 @@
     "type": "member",
     "name": "Shaun Cooper",
     "aliases": [],
-    "description": "American bassist and songwriter.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2010,
+    "start_date": null,
     "end_date": null,
     "origin": null,
     "tag_ids": []
@@ -1382,14 +1306,14 @@
     "type": "member",
     "name": "Mark O'Connell",
     "aliases": [],
-    "description": "Irish-American drummer, best known for his work with Taking Back Sunday.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2001,
+    "start_date": null,
     "end_date": null,
-    "origin": "Irish-American",
+    "origin": null,
     "tag_ids": [
       "tag_drummer"
     ]
@@ -1399,13 +1323,13 @@
     "type": "member",
     "name": "Jesse Lacey",
     "aliases": [],
-    "description": "American singer and songwriter, known as the original frontman of Taking Back Sunday.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
-    "start_date": 2002,
-    "end_date": 2003,
+    "start_date": null,
+    "end_date": null,
     "origin": null,
     "tag_ids": []
   },
@@ -1414,13 +1338,13 @@
     "type": "member",
     "name": "Antonio Longo",
     "aliases": [],
-    "description": "American musician, known as the original lead singer of Taking Back Sunday.",
+    "description": "",
     "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
-    "end_date": 2001,
+    "end_date": null,
     "origin": null,
     "tag_ids": []
   },
@@ -1475,7 +1399,7 @@
     "name": "Basic Radio",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -1550,8 +1474,8 @@
     "name": "Dance Hall Crashers",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Dance_Hall_Crashers",
-    "website_url": "https://dancehallcrashers.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1655,8 +1579,8 @@
     "name": "Downfall",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Downfall_(band)",
-    "website_url": "https://downfalltwentytwelve.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1670,7 +1594,7 @@
     "name": "Shaken 69",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -1715,8 +1639,8 @@
     "name": "Devils Brigade",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Devils_Brigade_(band)",
-    "website_url": "https://thedevilsbrigade.net/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1745,8 +1669,8 @@
     "name": "Big Rig",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Big_Rig_(band)",
-    "website_url": "https://www.bigrig.band/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1790,8 +1714,8 @@
     "name": "Common Rider",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Common_Rider",
-    "website_url": "https://commonridermusic.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1835,8 +1759,8 @@
     "name": "Classics of Love",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Classics_of_Love",
-    "website_url": "https://classicsoflove.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1895,8 +1819,8 @@
     "name": "The Forgotten",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/The_Forgotten_(band)",
-    "website_url": "https://www.theforgotten.us/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1985,8 +1909,8 @@
     "name": "No Use for a Name",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://en.wikipedia.org/wiki/No_Use_for_a_Name",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2105,8 +2029,8 @@
     "name": "Sick of It All",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.sickofitall.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2180,8 +2104,8 @@
     "name": "Red Hot Chili Peppers",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://redhotchilipeppers.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2270,7 +2194,7 @@
     "name": "Mike Ness",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -2286,7 +2210,7 @@
     "aliases": [],
     "description": "",
     "image_url": "",
-    "website_url": "https://en.wikipedia.org/wiki/Mike_Ness",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2300,8 +2224,8 @@
     "name": "Our Lady Peace",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.ourladypeace.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2405,8 +2329,8 @@
     "name": "Rusted Root",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.rustedroot.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2510,8 +2434,8 @@
     "name": "Sevendust",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://sevendust.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2600,8 +2524,8 @@
     "name": "Collective Soul",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://collectivesoul.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2705,8 +2629,8 @@
     "name": "Godsmack",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.godsmack.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2795,8 +2719,8 @@
     "name": "Megadeth",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://megadeth.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2900,7 +2824,7 @@
     "name": "The Supersuckers",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -2990,7 +2914,7 @@
     "name": "Big Sugar",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3065,8 +2989,8 @@
     "name": "Muse",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.muse.mu/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -3125,7 +3049,7 @@
     "name": "John Oszajca",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3155,7 +3079,7 @@
     "name": "Pushmonkey",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3245,7 +3169,7 @@
     "name": "Cyclefly",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3320,7 +3244,7 @@
     "name": "Indigenous",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3388,277 +3312,5 @@
     "end_date": null,
     "origin": null,
     "tag_ids": []
-  },
-  {
-    "name": "Fall Out Boy",
-    "website_url": "https://falloutboy.com/",
-    "id": "member_171"
-  },
-  {
-    "name": "Simple Minds",
-    "website_url": "https://www.simpleminds.com/",
-    "id": "member_172"
-  },
-  {
-    "name": "PUP",
-    "website_url": "https://www.puptheband.com/",
-    "id": "member_173"
-  },
-  {
-    "name": "I Prevail",
-    "website_url": "https://iprevailband.com/",
-    "id": "member_174"
-  },
-  {
-    "name": "Sham 69",
-    "website_url": "https://www.officialsham69.com/",
-    "id": "member_175"
-  },
-  {
-    "name": "Supersuckers",
-    "website_url": "https://supersuckers.com/",
-    "id": "member_176"
-  },
-  {
-    "name": "Lagwagon",
-    "website_url": "https://lagwagon.com/",
-    "id": "member_177"
-  },
-  {
-    "name": "Strung Out",
-    "website_url": "https://strungout.com/",
-    "id": "member_178"
-  },
-  {
-    "name": "Pennywise",
-    "aliases": [],
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pennywise_(band)"
-      },
-      {
-        "name": "Last.fm",
-        "url": "https://www.last.fm/music/Pennywise"
-      }
-    ],
-    "id": "member_179"
-  },
-  {
-    "name": "The Black Pacific",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Black_Pacific"
-      }
-    ],
-    "website_url": "http://blackpacificband.com",
-    "id": "member_180"
-  },
-  {
-    "name": "One Hit Wonder",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/One_Hit_Wonder"
-      }
-    ],
-    "id": "member_181"
-  },
-  {
-    "name": "Tender Fury",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tender_Fury"
-      },
-      {
-        "name": "Discogs",
-        "url": "https://www.discogs.com/artist/253097-Tender-Fury"
-      }
-    ],
-    "id": "member_182"
-  },
-  {
-    "name": "Ignite",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ignite_(band)"
-      }
-    ],
-    "id": "member_183"
-  },
-  {
-    "name": "Misfits",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Misfits_(band)"
-      }
-    ],
-    "id": "member_184"
-  },
-  {
-    "name": "The Offspring",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Offspring"
-      }
-    ],
-    "id": "member_185"
-  },
-  {
-    "name": "Social Distortion",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Social_Distortion"
-      }
-    ],
-    "id": "member_186"
-  },
-  {
-    "name": "H2O",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/H2O_(band)"
-      }
-    ],
-    "id": "member_187"
-  },
-  {
-    "name": "Face to Face",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Face_to_Face_(band)"
-      }
-    ],
-    "id": "member_188"
-  },
-  {
-    "name": "The Vandals",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Vandals"
-      }
-    ],
-    "id": "member_189"
-  },
-  {
-    "name": "Adolescents",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Adolescents_(band)"
-      }
-    ],
-    "id": "member_190"
-  },
-  {
-    "name": "T.S.O.L.",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/T.S.O.L."
-      }
-    ],
-    "id": "member_191"
-  },
-  {
-    "name": "U.S. Bombs",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/U.S._Bombs"
-      },
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/USBombs/"
-      }
-    ],
-    "id": "member_192"
-  },
-  {
-    "name": "Youth Brigade",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Youth_Brigade"
-      }
-    ],
-    "id": "member_193"
-  },
-  {
-    "name": "The Interrupters",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Interrupters"
-      }
-    ],
-    "id": "member_194"
-  },
-  {
-    "name": "Agent Orange",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Agent_Orange_(band)"
-      },
-      {
-        "name": "Last.fm",
-        "url": "https://www.last.fm/music/Agent+Orange"
-      }
-    ],
-    "id": "member_195"
-  },
-  {
-    "name": "The Aquabats",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Aquabats"
-      }
-    ],
-    "id": "member_196"
-  },
-  {
-    "name": "The Crew",
-    "socials": [
-      {
-        "name": "Epitaph Records",
-        "url": "https://www.epitaph.com/"
-      },
-      {
-        "name": "NME",
-        "url": "https://www.nme.com/"
-      }
-    ],
-    "id": "member_197"
-  },
-  {
-    "name": "Chaos Delivery Machine",
-    "socials": [
-      {
-        "name": "Discogs",
-        "url": "https://www.discogs.com/artist/842571-Chaos-Delivery-Machine"
-      }
-    ],
-    "id": "member_198"
-  },
-  {
-    "name": "Lars Frederiksen and the Bastards",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Lars_Frederiksen_and_the_Bastards"
-      }
-    ],
-    "id": "member_199"
   }
 ]

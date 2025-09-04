@@ -649,13 +649,7 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Used-3011_%2818215394714%29.jpg",
     "website_url": "https://theused.net",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
+    "location": null,
     "start_date": null,
     "end_date": null,
     "origin": "Orem, UT",
@@ -677,13 +671,7 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/Bert_McCracken",
     "socials": {},
-    "location": {
-      "city": "Provo",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.23,
-      "longitude": -111.67
-    },
+    "location": null,
     "start_date": 2001,
     "end_date": null,
     "origin": "Provo, UT",
@@ -700,13 +688,7 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
+    "location": null,
     "start_date": 2001,
     "end_date": null,
     "origin": "Orem, UT",
@@ -721,13 +703,7 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
+    "location": null,
     "start_date": 2006,
     "end_date": null,
     "origin": "Salt Lake City, UT",
@@ -742,13 +718,7 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Monterey",
-      "state": "California",
-      "country": "USA",
-      "latitude": 36.6,
-      "longitude": -121.9
-    },
+    "location": null,
     "start_date": 2015,
     "end_date": null,
     "origin": "Orem, UT",
@@ -763,13 +733,7 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orem",
-      "state": "Utah",
-      "country": "USA",
-      "latitude": 40.3,
-      "longitude": -111.69
-    },
+    "location": null,
     "start_date": 2001,
     "end_date": 2015,
     "origin": "Orem, UT",
@@ -784,13 +748,7 @@
     "image_url": "",
     "website_url": "https://en.wikipedia.org/wiki/The_Used",
     "socials": {},
-    "location": {
-      "city": "Orange County",
-      "state": "California",
-      "country": "USA",
-      "latitude": 33.72,
-      "longitude": -117.83
-    },
+    "location": null,
     "start_date": 2015,
     "end_date": 2018,
     "origin": "Orange, CA",
@@ -805,13 +763,7 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nine_Inch_Nails_-20.06.2022-O2_Apollo_Manchester.jpg",
     "website_url": "https://www.nin.com",
     "socials": {},
-    "location": {
-      "city": "Cleveland",
-      "state": "Ohio",
-      "country": "USA",
-      "latitude": 41.5,
-      "longitude": -81.69
-    },
+    "location": null,
     "start_date": null,
     "end_date": null,
     "origin": "Cleveland, OH",
@@ -828,13 +780,7 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/TrentReznor.jpg",
     "website_url": "https://www.nin.com",
     "socials": {},
-    "location": {
-      "city": "Mercer",
-      "state": "Pennsylvania",
-      "country": "USA",
-      "latitude": 41.23,
-      "longitude": -80.24
-    },
+    "location": null,
     "start_date": 1988,
     "end_date": null,
     "origin": "New Castle, PA",
@@ -849,13 +795,7 @@
     "image_url": "",
     "website_url": "https://www.nin.com",
     "socials": {},
-    "location": {
-      "city": "Ladbroke Grove",
-      "state": "London",
-      "country": "UK",
-      "latitude": 51.5176,
-      "longitude": -0.2102
-    },
+    "location": null,
     "start_date": 2016,
     "end_date": null,
     "origin": "London, UK",
@@ -1091,7 +1031,7 @@
     "aliases": [],
     "description": "All Time Low is an American pop-punk band formed in Towson, Maryland, in 2003. The band members are Alex Gaskarth (lead vocals, rhythm guitar), Jack Barakat (lead guitar), Zack Merrick (bass/backing vocals), and Rian Dawson (drums). All Time Low gained mainstream success in the mid-2000s with albums like So Wrong, It’s Right (2007) and Nothing Personal (2009).",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/All_Time_Low.jpg",
-    "website_url": "https://alltimelow.com/",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1202,7 +1142,7 @@
     "aliases": [],
     "description": "American punk rock band",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nofxleeds.png",
-    "website_url": "https://www.nofxofficialwebsite.com/",
+    "website_url": null,
     "socials": {},
     "location": "Los Angeles",
     "start_date": 1983,
@@ -1318,8 +1258,8 @@
     "name": "Taking Back Sunday",
     "aliases": [],
     "description": "Taking Back Sunday is an American rock band from Long Island, New York, formed in 1999. The original lineup featured vocalists Jesse Lacey and Adam Lazzara, guitarist John Nolan, bassist Shaun Cooper, and drummer Mark O'Connell. Lazzara became lead vocalist in 2001 and the band went on to release influential albums like Tell All Your Friends (2002) and Where You Want to Be (2004). Taking Back Sunday remains active, known for its catchy emo/alternative rock sound, and continues to tour and release new music.",
-    "image_url": "https://www.gettyimages.com/photos/taking-back-sunday-band",
-    "website_url": "https://takingbacksunday.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": "Long Island, New York",
     "start_date": 1999,
@@ -1475,7 +1415,7 @@
     "name": "Basic Radio",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -1550,8 +1490,8 @@
     "name": "Dance Hall Crashers",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Dance_Hall_Crashers",
-    "website_url": "https://dancehallcrashers.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1655,8 +1595,8 @@
     "name": "Downfall",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Downfall_(band)",
-    "website_url": "https://downfalltwentytwelve.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1670,7 +1610,7 @@
     "name": "Shaken 69",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -1715,8 +1655,8 @@
     "name": "Devils Brigade",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Devils_Brigade_(band)",
-    "website_url": "https://thedevilsbrigade.net/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1745,8 +1685,8 @@
     "name": "Big Rig",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Big_Rig_(band)",
-    "website_url": "https://www.bigrig.band/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1790,8 +1730,8 @@
     "name": "Common Rider",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Common_Rider",
-    "website_url": "https://commonridermusic.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1835,8 +1775,8 @@
     "name": "Classics of Love",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/Classics_of_Love",
-    "website_url": "https://classicsoflove.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1895,8 +1835,8 @@
     "name": "The Forgotten",
     "aliases": [],
     "description": "",
-    "image_url": "https://en.wikipedia.org/wiki/The_Forgotten_(band)",
-    "website_url": "https://www.theforgotten.us/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -1985,8 +1925,8 @@
     "name": "No Use for a Name",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://en.wikipedia.org/wiki/No_Use_for_a_Name",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2105,8 +2045,8 @@
     "name": "Sick of It All",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.sickofitall.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2180,8 +2120,8 @@
     "name": "Red Hot Chili Peppers",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://redhotchilipeppers.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2270,7 +2210,7 @@
     "name": "Mike Ness",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -2286,7 +2226,7 @@
     "aliases": [],
     "description": "",
     "image_url": "",
-    "website_url": "https://en.wikipedia.org/wiki/Mike_Ness",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2300,8 +2240,8 @@
     "name": "Our Lady Peace",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.ourladypeace.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2405,8 +2345,8 @@
     "name": "Rusted Root",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.rustedroot.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2510,8 +2450,8 @@
     "name": "Sevendust",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://sevendust.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2600,8 +2540,8 @@
     "name": "Collective Soul",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://collectivesoul.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2705,8 +2645,8 @@
     "name": "Godsmack",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.godsmack.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2795,8 +2735,8 @@
     "name": "Megadeth",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://megadeth.com/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -2900,7 +2840,7 @@
     "name": "The Supersuckers",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -2990,7 +2930,7 @@
     "name": "Big Sugar",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3065,8 +3005,8 @@
     "name": "Muse",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
-    "website_url": "https://www.muse.mu/",
+    "image_url": "",
+    "website_url": null,
     "socials": {},
     "location": null,
     "start_date": null,
@@ -3125,7 +3065,7 @@
     "name": "John Oszajca",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3155,7 +3095,7 @@
     "name": "Pushmonkey",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3245,7 +3185,7 @@
     "name": "Cyclefly",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3320,7 +3260,7 @@
     "name": "Indigenous",
     "aliases": [],
     "description": "",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "image_url": "",
     "website_url": null,
     "socials": {},
     "location": null,
@@ -3388,277 +3328,5 @@
     "end_date": null,
     "origin": null,
     "tag_ids": []
-  },
-  {
-    "name": "Fall Out Boy",
-    "website_url": "https://falloutboy.com/",
-    "id": "member_171"
-  },
-  {
-    "name": "Simple Minds",
-    "website_url": "https://www.simpleminds.com/",
-    "id": "member_172"
-  },
-  {
-    "name": "PUP",
-    "website_url": "https://www.puptheband.com/",
-    "id": "member_173"
-  },
-  {
-    "name": "I Prevail",
-    "website_url": "https://iprevailband.com/",
-    "id": "member_174"
-  },
-  {
-    "name": "Sham 69",
-    "website_url": "https://www.officialsham69.com/",
-    "id": "member_175"
-  },
-  {
-    "name": "Supersuckers",
-    "website_url": "https://supersuckers.com/",
-    "id": "member_176"
-  },
-  {
-    "name": "Lagwagon",
-    "website_url": "https://lagwagon.com/",
-    "id": "member_177"
-  },
-  {
-    "name": "Strung Out",
-    "website_url": "https://strungout.com/",
-    "id": "member_178"
-  },
-  {
-    "name": "Pennywise",
-    "aliases": [],
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Pennywise_(band)"
-      },
-      {
-        "name": "Last.fm",
-        "url": "https://www.last.fm/music/Pennywise"
-      }
-    ],
-    "id": "member_179"
-  },
-  {
-    "name": "The Black Pacific",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Black_Pacific"
-      }
-    ],
-    "website_url": "http://blackpacificband.com",
-    "id": "member_180"
-  },
-  {
-    "name": "One Hit Wonder",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/One_Hit_Wonder"
-      }
-    ],
-    "id": "member_181"
-  },
-  {
-    "name": "Tender Fury",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tender_Fury"
-      },
-      {
-        "name": "Discogs",
-        "url": "https://www.discogs.com/artist/253097-Tender-Fury"
-      }
-    ],
-    "id": "member_182"
-  },
-  {
-    "name": "Ignite",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ignite_(band)"
-      }
-    ],
-    "id": "member_183"
-  },
-  {
-    "name": "Misfits",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Misfits_(band)"
-      }
-    ],
-    "id": "member_184"
-  },
-  {
-    "name": "The Offspring",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Offspring"
-      }
-    ],
-    "id": "member_185"
-  },
-  {
-    "name": "Social Distortion",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Social_Distortion"
-      }
-    ],
-    "id": "member_186"
-  },
-  {
-    "name": "H2O",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/H2O_(band)"
-      }
-    ],
-    "id": "member_187"
-  },
-  {
-    "name": "Face to Face",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Face_to_Face_(band)"
-      }
-    ],
-    "id": "member_188"
-  },
-  {
-    "name": "The Vandals",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Vandals"
-      }
-    ],
-    "id": "member_189"
-  },
-  {
-    "name": "Adolescents",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Adolescents_(band)"
-      }
-    ],
-    "id": "member_190"
-  },
-  {
-    "name": "T.S.O.L.",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/T.S.O.L."
-      }
-    ],
-    "id": "member_191"
-  },
-  {
-    "name": "U.S. Bombs",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/U.S._Bombs"
-      },
-      {
-        "name": "Facebook",
-        "url": "https://www.facebook.com/USBombs/"
-      }
-    ],
-    "id": "member_192"
-  },
-  {
-    "name": "Youth Brigade",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Youth_Brigade"
-      }
-    ],
-    "id": "member_193"
-  },
-  {
-    "name": "The Interrupters",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Interrupters"
-      }
-    ],
-    "id": "member_194"
-  },
-  {
-    "name": "Agent Orange",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Agent_Orange_(band)"
-      },
-      {
-        "name": "Last.fm",
-        "url": "https://www.last.fm/music/Agent+Orange"
-      }
-    ],
-    "id": "member_195"
-  },
-  {
-    "name": "The Aquabats",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/The_Aquabats"
-      }
-    ],
-    "id": "member_196"
-  },
-  {
-    "name": "The Crew",
-    "socials": [
-      {
-        "name": "Epitaph Records",
-        "url": "https://www.epitaph.com/"
-      },
-      {
-        "name": "NME",
-        "url": "https://www.nme.com/"
-      }
-    ],
-    "id": "member_197"
-  },
-  {
-    "name": "Chaos Delivery Machine",
-    "socials": [
-      {
-        "name": "Discogs",
-        "url": "https://www.discogs.com/artist/842571-Chaos-Delivery-Machine"
-      }
-    ],
-    "id": "member_198"
-  },
-  {
-    "name": "Lars Frederiksen and the Bastards",
-    "socials": [
-      {
-        "name": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Lars_Frederiksen_and_the_Bastards"
-      }
-    ],
-    "id": "member_199"
   }
 ]

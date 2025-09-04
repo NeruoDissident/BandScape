@@ -272,6 +272,13 @@ const useDataStore = create((set, get) => ({
         if (!Array.isArray(nodes)) {
           throw new Error('nodesData.json must contain an array of nodes')
         }
+        // Backward compatibility: migrate legacy 'tags' -> 'tag_ids' if present
+        // This ensures older datasets using `tags` continue to work without changes.
+        for (const n of nodes) {
+          if (n && Array.isArray(n.tags) && !Array.isArray(n.tag_ids)) {
+            n.tag_ids = n.tags
+          }
+        }
         data.nodes = nodes
         
         // Parse links and transform to expected format
