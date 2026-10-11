@@ -2,6 +2,7 @@ import { useEffect } from 'react'
 import useDataStore from './store/DataStore'
 import GraphView from './views/GraphView'
 import MapView from './views/MapView'
+import ThreeDView from './views/ThreeDView'
 import InfoPanel from './components/InfoPanel'
 import SearchBar from './components/SearchBar'
 import TypeFilters from './components/TypeFilters'
@@ -24,7 +25,6 @@ function App() {
     setActiveView,
     selectedNode,
     requestFit,
-    backgroundImageUrl,
     nodes,
     byId,
     setSelectedNode
@@ -38,6 +38,7 @@ function App() {
     const handleKeyPress = (e) => {
       if (e.key === '1') setActiveView('graph')
       else if (e.key === '2') setActiveView('map')
+      else if (e.key === '3') setActiveView('3d')
     }
 
     window.addEventListener('keydown', handleKeyPress)
@@ -91,6 +92,7 @@ function App() {
   const renderView = () => {
     switch (activeView) {
       case 'map': return <MapView />
+      case '3d': return <ThreeDView />
       default: return <GraphView />
     }
   }
@@ -134,6 +136,12 @@ function App() {
               onClick={() => setActiveView('map')}
             >
               Map
+            </button>
+            <button 
+              className={activeView === '3d' ? 'active' : ''}
+              onClick={() => setActiveView('3d')}
+            >
+              3D
             </button>
           </div>
           <Presets />

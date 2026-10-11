@@ -39,12 +39,6 @@ export default function TimelineControls() {
     const ts = v ? new Date(v).getTime() : null
     setTimelineRange(ts, timelineEndTs)
   }
-  const onEndChange = (e) => {
-    const v = e.target.value
-    const ts = v ? new Date(v).getTime() : null
-    setTimelineRange(timelineStartTs, ts)
-  }
-
   const onSliderInput = (e) => {
     if (!hasExtent) return
     const dayIndex = parseInt(e.target.value, 10)

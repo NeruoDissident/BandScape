@@ -1,205 +1,195 @@
-import { useEffect, useRef } from 'react'
+import { useEffect, useMemo, useRef } from 'react'
 import ForceGraph3D from '3d-force-graph'
+import { Sprite, SpriteMaterial, CanvasTexture } from 'three'
 import useDataStore from '../store/DataStore'
+
+const NODE_COLORS = {
+  band: '#ff6b6b',
+  member: '#4ecdc4',
+  label: '#45b7d1',
+  genre: '#96ceb4',
+  venue: '#feca57',
+  event: '#ff9ff3',
+}
+
+const LINK_COLORS = {
+  membership: 'rgba(160,170,190,0.35)',
+  guest: 'rgba(255,159,243,0.5)',
+  collab: 'rgba(254,202,87,0.5)',
+}
+
+// Canvas sprite label used for band nodes. Rendered once per band at init.
+function makeLabelSprite(text) {
+  const fontSize = 42
+  const padX = 26
+  const padY = 14
+  const measure = document.createElement('canvas').getContext('2d')
+  measure.font = `600 ${fontSize}px system-ui, -apple-system, sans-serif`
+  const textW = Math.ceil(measure.measureText(text).width)
+  const canvas = document.createElement('canvas')
+  canvas.width = textW + padX * 2
+  canvas.height = fontSize + padY * 2
+  const ctx = canvas.getContext('2d')
+
+  // pill background
+  const r = canvas.height / 2
+  ctx.fillStyle = 'rgba(10,12,16,0.72)'
+  ctx.beginPath()
+  ctx.roundRect(0, 0, canvas.width, canvas.height, r)
+  ctx.fill()
+
+  ctx.font = `600 ${fontSize}px system-ui, -apple-system, sans-serif`
+  ctx.fillStyle = '#f2f4f8'
+  ctx.textBaseline = 'middle'
+  ctx.fillText(text, padX, canvas.height / 2 + 2)
+
+  const tex = new CanvasTexture(canvas)
+  tex.colorSpace = 'srgb'
+  const sprite = new Sprite(new SpriteMaterial({ map: tex, transparent: true, depthWrite: false }))
+  const scale = 0.055
+  sprite.scale.set(canvas.width * scale, canvas.height * scale, 1)
+  return sprite
+}
 
 function ThreeDView() {
   const containerRef = useRef(null)
   const graphRef = useRef(null)
-  const initTimeoutRef = useRef(null)
-  const holderRef = useRef(null) // inner holder for a fresh canvas per init
-  const { nodes, links, setSelectedNode, activeView } = useDataStore()
+  const downPos = useRef(null)
+  const { nodes, links, filters, selectedNode, setSelectedNode } = useDataStore()
 
+  // Same type filtering as the 2D graph view.
+  const graphData = useMemo(() => {
+    const allowedTypes = filters?.allowedTypes
+    const filteredNodes = allowedTypes?.length
+      ? nodes.filter((n) => allowedTypes.includes(n.type))
+      : nodes
+    const ids = new Set(filteredNodes.map((n) => n.id))
+    const filteredLinks = links.filter((l) => ids.has(l.source) && ids.has(l.target))
+
+    const degree = new Map()
+    for (const l of filteredLinks) {
+      degree.set(l.source, (degree.get(l.source) || 0) + 1)
+      degree.set(l.target, (degree.get(l.target) || 0) + 1)
+    }
+
+    return {
+      nodes: filteredNodes.map((n) => ({
+        id: n.id,
+        name: n.name,
+        type: n.type,
+        val: 1 + Math.min(8, (degree.get(n.id) || 0) * 0.6),
+      })),
+      links: filteredLinks.map((l) => ({ source: l.source, target: l.target, type: l.type })),
+    }
+  }, [nodes, links, filters])
+
+  // Init once on mount; teardown on unmount. No timeouts — rAF + ResizeObserver.
   useEffect(() => {
-    console.log('3D: Component mounted, setting up initialization')
-    
-    // Clear any existing timeout
-    if (initTimeoutRef.current) {
-      clearTimeout(initTimeoutRef.current)
+    const el = containerRef.current
+    if (!el) return
+    let graph = null
+    let disposed = false
+
+    const onPointerDown = (e) => {
+      downPos.current = { x: e.clientX, y: e.clientY }
     }
+    el.addEventListener('pointerdown', onPointerDown)
 
-    // Wait a bit for the DOM to be ready, then initialize
-    initTimeoutRef.current = setTimeout(() => {
-      const hasContainer = !!containerRef.current
-      const isActive = activeView === '3d'
-      const cw = containerRef.current?.clientWidth ?? 0
-      const ch = containerRef.current?.clientHeight ?? 0
-      const hasSize = cw > 0 && ch > 0
-      if (hasContainer && isActive && hasSize && nodes.length > 0) {
-        console.log('3D: Container and data ready, initializing...')
-        initializeGraph()
-      } else {
-        console.log('3D: Still waiting for container or data', {
-          hasContainer,
-          isActive,
-          hasSize,
-          size: { width: cw, height: ch },
-          nodeCount: nodes.length
-        })
-      }
-    }, 300) // Give it a bit more time
+    const coarse = window.matchMedia?.('(pointer: coarse)').matches ?? false
 
-    return () => {
-      console.log('3D: Component unmounting, cleaning up')
-      if (initTimeoutRef.current) {
-        clearTimeout(initTimeoutRef.current)
-      }
-      if (graphRef.current) {
-        try {
-          graphRef.current._destructor?.()
-        } catch (e) {
-          console.warn('3D: Cleanup error:', e)
-        }
-        graphRef.current = null
-      }
-      // Remove any existing holder/canvas to avoid WebGL context reuse
-      if (holderRef.current && containerRef.current?.contains(holderRef.current)) {
-        try {
-          containerRef.current.removeChild(holderRef.current)
-        } catch (e) {
-          console.warn('3D: Holder removal error:', e)
-        }
-        holderRef.current = null
-      }
-    }
-  }, [nodes, links, activeView])
+    const raf = requestAnimationFrame(() => {
+      if (disposed) return
+      const w = el.clientWidth, h = el.clientHeight
+      if (!w || !h) return
 
-  function initializeGraph() {
-    if (!containerRef.current) {
-      console.error('3D: Container still not available during initialization')
-      return
-    }
-
-    // Guard: ensure visible size to avoid Three.js initializing with 0-sized canvas
-    const cw = containerRef.current.clientWidth
-    const ch = containerRef.current.clientHeight
-    if (cw === 0 || ch === 0) {
-      console.warn('3D: Container has zero size, aborting init and retrying later', { width: cw, height: ch })
-      return
-    }
-
-    try {
-      console.log('3D: Starting graph initialization')
-
-      // Clean up any existing graph
-      if (graphRef.current) {
-        graphRef.current._destructor?.()
-        graphRef.current = null
-      }
-
-      // Clear container and ensure previous holder/canvas are removed
-      if (holderRef.current && containerRef.current.contains(holderRef.current)) {
-        containerRef.current.removeChild(holderRef.current)
-        holderRef.current = null
-      }
-      containerRef.current.innerHTML = ''
-
-      // Create a fresh inner holder so each init gets a new canvas/context
-      const holder = document.createElement('div')
-      holder.style.width = '100%'
-      holder.style.height = '100%'
-      containerRef.current.appendChild(holder)
-      holderRef.current = holder
-
-      // Prepare data with explicit structure for Three.js compatibility
-      const nodeMap = new Map(nodes.map(node => [node.id, node]))
-      
-      const graphNodes = nodes.map((node, index) => ({
-        id: node.id,
-        name: node.name,
-        type: node.type,
-        val: 1,
-        index: index // Add explicit index
-      }))
-
-      const validLinks = links
-        .filter(link => nodeMap.has(link.source) && nodeMap.has(link.target))
-        .map(link => ({
-          source: link.source,
-          target: link.target,
-          type: link.type || 'default',
-          value: 1 // Add explicit value
-        }))
-
-      const graphData = {
-        nodes: graphNodes,
-        links: validLinks
-      }
-
-      console.log('3D: Prepared data structure:', {
-        nodes: graphData.nodes.length,
-        links: graphData.links.length,
-        sampleNode: graphData.nodes[0],
-        sampleLink: graphData.links[0]
-      })
-
-      // Validate data before proceeding
-      if (graphData.nodes.length === 0) {
-        console.warn('3D: No nodes to render')
-        return
-      }
-
-      console.log('3D: Creating graph with', graphData.nodes.length, 'nodes and', graphData.links.length, 'links')
-
-      // Create graph with minimal configuration first
-      const graph = ForceGraph3D()
-      
-      // Initialize with fresh holder
-      graph(holder)
-
-      // Set basic properties
-      graph
-        .backgroundColor('#0b0d10')
+      graph = ForceGraph3D()(el)
+        .width(w)
+        .height(h)
+        .backgroundColor('rgba(0,0,0,0)')
         .showNavInfo(false)
         .nodeLabel('name')
-        .linkOpacity(0.4)
-        .enableNodeDrag(false) // Disable drag to reduce complexity
-        .onNodeClick((node) => {
-          const fullNode = nodes.find(n => n.id === node.id)
-          if (fullNode) {
-            setSelectedNode(fullNode)
-            console.log('3D: Selected node', fullNode.name)
-          }
+        .nodeVal('val')
+        .nodeRelSize(5)
+        .nodeColor((n) => NODE_COLORS[n.type] ?? '#cccccc')
+        .linkColor((l) => LINK_COLORS[l.type] ?? 'rgba(160,170,190,0.3)')
+        .linkOpacity(0.55)
+        .linkWidth(0.6)
+        // Band names as floating labels; members keep hover tooltips only.
+        .nodeThreeObjectExtend((n) => {
+          if (n.type !== 'band') return null
+          const sprite = makeLabelSprite(n.name)
+          sprite.position.y = 7 + n.val * 1.6
+          return sprite
         })
-        // Use direct color mapping without custom meshes to avoid multiple THREE instances
-        .nodeColor(node => {
-          const colorMap = {
-            band: '#ff6b6b',
-            member: '#4ecdc4',
-            label: '#45b7d1',
-            genre: '#96ceb4',
-            venue: '#feca57',
-            event: '#ff9ff3'
-          }
-          return colorMap[node.type] ?? '#cccccc'
+        // Node dragging fights with one-finger rotate on touch — keep it for mouse only.
+        .enableNodeDrag(!coarse)
+        .onNodeHover((n) => {
+          document.body.style.cursor = n ? 'pointer' : ''
         })
+        .onNodeClick((n, event) => {
+          // Tap, not drag: ignore clicks where the pointer traveled (rotate gesture).
+          const d = downPos.current
+          if (d && event && Math.hypot(event.clientX - d.x, event.clientY - d.y) > 10) return
+          const full = nodes.find((x) => x.id === n.id)
+          if (full) setSelectedNode(full)
+        })
+        .onBackgroundClick(() => setSelectedNode(null))
 
-      // Set data after configuration
-      console.log('3D: Setting graph data...')
+      graph.d3Force('charge').strength(-140)
+      graph.d3Force('link').distance(55)
       graph.graphData(graphData)
-      
-      // Node color handled via nodeColor
-      console.log('3D: Using nodeColor for stable coloring')
-
       graphRef.current = graph
-      console.log('3D: Graph successfully created!')
+    })
 
-    } catch (error) {
-      console.error('3D: Failed to create graph:', error)
+    const ro = new ResizeObserver(() => {
+      if (!graph || disposed) return
+      const w = el.clientWidth, h = el.clientHeight
+      if (w && h) { graph.width(w); graph.height(h) }
+    })
+    ro.observe(el)
+
+    return () => {
+      disposed = true
+      cancelAnimationFrame(raf)
+      ro.disconnect()
+      el.removeEventListener('pointerdown', onPointerDown)
+      document.body.style.cursor = ''
+      if (graph) {
+        try { graph._destructor() } catch { /* already torn down */ }
+      }
+      graphRef.current = null
     }
-  }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
+  // Push data updates (filters, merges) into the live graph.
+  const dataRef = useRef(graphData)
+  useEffect(() => {
+    dataRef.current = graphData
+    if (graphRef.current) graphRef.current.graphData(graphData)
+  }, [graphData])
 
+  // Glide the camera to the selected node (also covers deep-link ?id=).
+  useEffect(() => {
+    const graph = graphRef.current
+    if (!graph || !selectedNode) return
+    const n = dataRef.current.nodes.find((x) => x.id === selectedNode.id)
+    if (n && n.x !== undefined) {
+      const dist = 160
+      const distRatio = 1 + dist / Math.hypot(n.x, n.y, n.z || 1)
+      graph.cameraPosition(
+        { x: n.x * distRatio, y: n.y * distRatio, z: (n.z || 0) * distRatio },
+        n,
+        1200
+      )
+    }
+  }, [selectedNode])
 
   return (
-    <div 
-      ref={containerRef} 
+    <div
+      ref={containerRef}
       className="threed-view"
-      style={{ 
-        width: '100%', 
-        height: '100%',
-        minHeight: '400px',
-        position: 'relative'
-      }}
+      style={{ width: '100%', height: '100%', minHeight: '400px', position: 'relative', touchAction: 'none' }}
     />
   )
 }

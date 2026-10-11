@@ -250,14 +250,18 @@ const useDataStore = create((set, get) => ({
         return { ok: res.ok, status: res.status, statusText: res.statusText, text: res.ok ? await res.text() : '' }
       }
 
-      // Load data from separate JSON files: nodesData.json and linksData.json
-      let source = 'nodesData.json + linksData.json'
+      // Load data from separate JSON files: bandsData.json + membersData.json and linksData.json
+      let source = 'bandsData.json + membersData.json + linksData.json'
       let data = { nodes: [], links: [] }
       
-      // Fetch nodes data
-      const nodesResp = await fetchText('/nodesData.json')
-      if (!nodesResp.ok) {
-        throw new Error(`Failed to fetch /nodesData.json: ${nodesResp.status} ${nodesResp.statusText}`)
+      // Fetch nodes data (bands + members)
+      const bandsResp = await fetchText('/bandsData.json')
+      if (!bandsResp.ok) {
+        throw new Error(`Failed to fetch /bandsData.json: ${bandsResp.status} ${bandsResp.statusText}`)
+      }
+      const membersResp = await fetchText('/membersData.json')
+      if (!membersResp.ok) {
+        throw new Error(`Failed to fetch /membersData.json: ${membersResp.status} ${membersResp.statusText}`)
       }
       
       // Fetch links data
@@ -267,11 +271,13 @@ const useDataStore = create((set, get) => ({
       }
       
       try {
-        // Parse nodes
-        const nodes = JSON.parse(nodesResp.text)
-        if (!Array.isArray(nodes)) {
-          throw new Error('nodesData.json must contain an array of nodes')
+        // Parse nodes (bands + members concatenated)
+        const bands = JSON.parse(bandsResp.text)
+        const members = JSON.parse(membersResp.text)
+        if (!Array.isArray(bands) || !Array.isArray(members)) {
+          throw new Error('bandsData.json / membersData.json must contain arrays of nodes')
         }
+        const nodes = [...bands, ...members]
         // Backward compatibility: migrate legacy 'tags' -> 'tag_ids' if present
         // This ensures older datasets using `tags` continue to work without changes.
         for (const n of nodes) {

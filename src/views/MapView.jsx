@@ -35,7 +35,7 @@ function MapView() {
     })
     // Restore viewport if available
     try {
-      const { mapCenter, mapZoom, mapBounds, viewLoadToken } = get()
+      const { mapCenter, mapZoom, mapBounds, viewLoadToken } = useDataStore.getState()
       if (viewLoadToken > 0 && mapBounds) {
         mapRef.current.fitBounds(mapBounds)
       } else if (viewLoadToken > 0 && mapCenter && mapZoom) {
@@ -188,7 +188,7 @@ function MapView() {
           const center = mapRef.current.getCenter()
           const zoom = mapRef.current.getZoom()
           const bounds = mapRef.current.getBounds()
-          get().setMapViewport([center.lat, center.lng], zoom, bounds)
+          useDataStore.getState().setMapViewport([center.lat, center.lng], zoom, bounds)
         } catch {}
         mapRef.current.remove()
         mapRef.current = null

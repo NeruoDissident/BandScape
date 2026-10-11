@@ -400,7 +400,7 @@ function GraphView() {
         try {
           const pan = cyRef.current.pan()
           const zoom = cyRef.current.zoom()
-          get().setGraphCamera(pan, zoom)
+          useDataStore.getState().setGraphCamera(pan, zoom)
         } catch {}
         cyRef.current.destroy()
         cyRef.current = null
@@ -456,7 +456,6 @@ function GraphView() {
       let ok = srcVisible && tgtVisible
       if (ok && timelineMode) {
         const edgeData = e.data()
-        const id = edgeData.id
         // We didn't store ts on elements; use byId map via links is not accessible here. Use stored data attributes? Fallback: evaluate by endpoints only
         // Better: use graph data on edges: inject _tsStart/_tsEnd into edge data during creation
         const tsS = edgeData._tsStart
@@ -501,7 +500,7 @@ function GraphView() {
     if (!cy) return
     try {
       // Apply stored camera on view load
-      const { graphPan, graphZoom, viewLoadToken } = get()
+      const { graphPan, graphZoom, viewLoadToken } = useDataStore.getState()
       if (viewLoadToken > 0 && graphPan && typeof graphZoom === 'number') {
         try { cy.zoom(graphZoom); cy.pan(graphPan) } catch {}
       }
