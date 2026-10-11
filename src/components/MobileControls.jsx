@@ -45,6 +45,12 @@ export default function MobileControls() {
               >
                 Map
               </button>
+              <button 
+                className={activeView === '3d' ? 'active' : ''}
+                onClick={() => { setActiveView('3d'); close() }}
+              >
+                3D
+              </button>
             </div>
           </div>
           {/* Reuse existing controls; stacked for small screens */}
