@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "band_1",
+    "type": "band",
+    "name": "Operation Ivy",
+    "description": "Operation Ivy was an American punk rock and ska band formed in Berkeley, California, in 1987, consisting of Jesse Michaels (vocals), Tim Armstrong (guitar), Matt Freeman (bass), and Dave Mello (drums). The band was highly influential in the East Bay punk scene and was pivotal to the early success of Lookout Records. They released only one studio album, *Energy* (1989), before disbanding that same year. Despite their short career, Operation Ivy's fusion of ska and hardcore left a lasting impact and they are recognized as a direct precursor to the band Rancid.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Opivy2.jpg",
+    "website_url": "https://en.wikipedia.org/wiki/Operation_Ivy",
+    "location": {
+      "lat": 37.8717,
+      "lng": -122.2728,
+      "city": "Berkeley, CA",
+      "country": "United States"
+    },
+    "origin": "Berkeley, CA",
+    "tag_ids": [
+      "genre_ska_punk",
+      "genre_punk_rock",
+      "genre_hardcore_punk"
+    ]
+  },
+  {
+    "id": "band_2",
+    "type": "band",
+    "name": "Rancid",
+    "description": "Rancid is an American punk rock band that formed in Berkeley, California, in 1991. The band was founded by former Operation Ivy members Tim Armstrong (guitar/vocals) and Matt Freeman (bass/vocals), and the lineup also includes Lars Frederiksen (guitar/vocals) and Branden Steineckert (drums). Rancid rose to mainstream prominence in the mid-1990s with albums such as *Let’s Go* (1994) and *...And Out Come the Wolves* (1995), which featured popular singles like \"Ruby Soho\" and \"Time Bomb\". Over their three-decade career, the band has released ten studio albums, sold over four million records worldwide, and remains active.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rancidband1.JPG",
+    "website_url": "https://rancidrancid.com",
+    "location": {
+      "lat": 37.8869,
+      "lng": -122.2978,
+      "city": "Albany, CA",
+      "country": "United States"
+    },
+    "origin": "Albany, CA",
+    "tag_ids": [
+      "genre_punk_rock",
+      "genre_ska_punk",
+      "genre_street_punk"
+    ]
+  },
+  {
+    "id": "band_3",
+    "type": "band",
+    "name": "Blink-182",
+    "description": "Blink-182 is a pop-punk band from Poway, California, formed in 1992. The band's classic lineup features Mark Hoppus on bass and vocals, Tom DeLonge on guitar and vocals, and Travis Barker on drums. They achieved massive success with albums like *Enema of the State* (1999) and *Take Off Your Pants and Jacket* (2001), which produced hit singles including \"All the Small Things\" and \"What's My Age Again?\". Known for their energetic live performances and irreverent humor, Blink-182 played a key role in popularizing pop-punk in the late 1990s. As of 2021, the band had sold over 50 million albums globally.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/ALTer_EGO_1_18_2020_(50740080078).jpg",
+    "website_url": "https://www.blink182.com",
+    "location": {
+      "lat": 32.9627,
+      "lng": -117.0362,
+      "city": "Poway, CA",
+      "country": "United States"
+    },
+    "origin": "Poway, CA"
+  },
+  {
+    "id": "band_4",
+    "type": "band",
+    "name": "Angels & Airwaves",
+    "description": "Angels & Airwaves (AVA) is an American alternative rock band created in 2005 by Tom DeLonge during a break from Blink-182. The band's lineup includes DeLonge on vocals and guitar, David Kennedy on guitar, Ilan Rubin on drums, and Matt Rubano on bass. Their first album, *We Don’t Need to Whisper* (2006), climbed to number four on the Billboard 200 chart. DeLonge conceived AVA as a multimedia art project, resulting in the band releasing multiple albums that are accompanied by films and other visual media, all characterized by a spacey and cinematic sound.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Angels%26Airwaves_Hansaring_01_authographing.jpg",
+    "website_url": "https://angelsandairwaves.com",
+    "location": {
+      "lat": 32.7157,
+      "lng": -117.1611,
+      "city": "San Diego, CA",
+      "country": "United States"
+    },
+    "origin": "San Diego, CA",
+    "tag_ids": [
+      "genre_alternative_rock",
+      "genre_space_rock"
+    ]
+  },
+  {
+    "id": "band_5",
+    "type": "band",
+    "name": "Transplants",
+    "description": "Transplants are an American punk/rap rock supergroup formed in 1999 by Tim Armstrong of Rancid and rapper Rob \"Skinhead Rob\" Aston. The lineup was later completed with the addition of Travis Barker on drums and Kevin Bivona on bass and keys. The band released their self-titled debut album, *Transplants*, in 2002, which included the single \"Diamonds and Guns,\" followed by *Haunted Cities* in 2005. After a hiatus following their 2005 album, the group reunited in 2010 and released *In a Warzone* in 2013, continuing to blend punk rock with hip-hop influences.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Transplants.jpg",
+    "website_url": "https://www.thetransplants.com",
+    "origin": "Los Angeles, CA",
+    "tag_ids": [
+      "genre_punk_rock",
+      "genre_rap_rock"
+    ]
+  },
+  {
+    "id": "band_6",
+    "type": "band",
+    "name": "Alkaline Trio",
+    "description": "Alkaline Trio is an American punk rock band that originated in Chicago in 1996. The founding members were Matt Skiba (vocalist/guitarist), Rob Doran (bassist), and Glenn Porter (drummer). Dan Andriano replaced Doran in 1997, and the drummer position was later filled by Mike Felumlee and then Derek Grant starting in 2001. The band is known for its dark, melodic punk songs and has cultivated a dedicated fanbase. They have released several albums, including notable works like *Goddamnit* (1998) and *Crimson* (2005).",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Alkaline_Trio_%281%29.jpg",
+    "website_url": "https://alkalinetrio.com",
+    "origin": "McHenry, IL",
+    "tag_ids": [
+      "genre_pop_punk",
+      "genre_punk_rock",
+      "genre_emo",
+      "genre_horror_punk"
+    ]
+  },
+  {
+    "id": "band_7",
+    "type": "band",
+    "name": "The Used",
+    "description": "The Used is an American rock band that formed in Orem, Utah, in 2000. The band's current members are vocalist Bert McCracken, bassist Jeph Howard, drummer Dan Whitesides, and guitarist Joey Bradford. The founding lineup included McCracken, Howard, guitarist Quinn Allman, and drummer Branden Steineckert. The Used rose to prominence with emotionally charged albums such as *In Love & Death* (2004) and *Lies for the Liars* (2007). Their sound, which combines hardcore intensity with melodic hooks, has resonated with fans, and the band continues to be active with numerous albums and tours.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Used-3011_%2818215394714%29.jpg",
+    "website_url": "https://theused.net",
+    "location": {
+      "city": "Orem",
+      "state": "Utah",
+      "country": "USA",
+      "latitude": 40.3,
+      "longitude": -111.69
+    },
+    "origin": "Orem, UT",
+    "tag_ids": [
+      "genre_emo",
+      "genre_screamo",
+      "genre_post_hardcore",
+      "genre_pop_punk",
+      "genre_punk_rock",
+      "genre_alternative_rock"
+    ]
+  },
+  {
+    "id": "band_8",
+    "type": "band",
+    "name": "Nine Inch Nails",
+    "description": "Nine Inch Nails (NIN) is an American industrial rock band established in Cleveland, Ohio, in 1988 by Trent Reznor. For many years, Reznor was the sole official member until longtime collaborator Atticus Ross joined as a permanent member in 2016. NIN is celebrated for influential albums such as *Pretty Hate Machine* and *The Downward Spiral*. The touring version of the band has featured a rotating cast of musicians including guitarist Robin Finck, keyboardist Alessandro Cortini, and drummer Josh Freese. In recognition of their impact, Nine Inch Nails was inducted into the Rock and Roll Hall of Fame in 2020.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nine_Inch_Nails_-20.06.2022-O2_Apollo_Manchester.jpg",
+    "website_url": "https://www.nin.com",
+    "location": {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "USA",
+      "latitude": 41.5,
+      "longitude": -81.69
+    },
+    "origin": "Cleveland, OH",
+    "tag_ids": [
+      "genre_industrial_rock"
+    ]
+  },
+  {
+    "id": "band_9",
+    "type": "band",
+    "name": "Paramore",
+    "description": "Paramore is an American rock band that formed in Franklin, Tennessee, in 2004. The band was co-founded by lead vocalist Hayley Williams and drummer Zac Farro, with guitarist Taylor York joining in 2007. After signing with Fueled by Ramen, they released their debut album *All We Know Is Falling* in 2005. Paramore achieved mainstream success with albums like *Riot!* (2007) and *After Laughter* (2017), producing hit singles such as \"Misery Business\" and the Grammy-winning \"Ain't It Fun\". Bassist Jeremy Davis departed in 2015, while Zac Farro rejoined in 2017.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Original_Paramore_members.jpg",
+    "website_url": "https://paramore.net",
+    "origin": "Franklin, TN",
+    "tag_ids": [
+      "genre_pop_punk",
+      "genre_emo",
+      "genre_pop_rock",
+      "genre_alternative_rock",
+      "genre_power_pop",
+      "genre_new_wave"
+    ]
+  },
+  {
+    "id": "band_10",
+    "type": "band",
+    "name": "All Time Low",
+    "description": "All Time Low is an American pop-punk band formed in Towson, Maryland, in 2003. The band members are Alex Gaskarth (lead vocals, rhythm guitar), Jack Barakat (lead guitar), Zack Merrick (bass/backing vocals), and Rian Dawson (drums). All Time Low gained mainstream success in the mid-2000s with albums like So Wrong, It’s Right (2007) and Nothing Personal (2009).",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/All_Time_Low.jpg",
+    "website_url": "https://alltimelow.com/",
+    "tag_ids": [
+      "genre_pop_punk",
+      "genre_pop_rock",
+      "genre_power_pop",
+      "genre_emo_pop",
+      "genre_alternative_rock"
+    ]
+  },
+  {
+    "id": "band_11",
+    "type": "band",
+    "name": "NOFX",
+    "description": "American punk rock band",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nofxleeds.png",
+    "website_url": "https://www.nofxofficialwebsite.com/",
+    "location": "Los Angeles",
+    "start_date": 1983,
+    "origin": "American",
+    "tag_ids": [
+      "genre_punk_rock",
+      "genre_melodic_hardcore",
+      "genre_skate_punk",
+      "genre_ska_punk",
+      "genre_pop_punk"
+    ]
+  },
+  {
+    "id": "band_12",
+    "type": "band",
+    "name": "Taking Back Sunday",
+    "description": "Taking Back Sunday is an American rock band from Long Island, New York, formed in 1999. The original lineup featured vocalists Jesse Lacey and Adam Lazzara, guitarist John Nolan, bassist Shaun Cooper, and drummer Mark O'Connell. Lazzara became lead vocalist in 2001 and the band went on to release influential albums like Tell All Your Friends (2002) and Where You Want to Be (2004). Taking Back Sunday remains active, known for its catchy emo/alternative rock sound, and continues to tour and release new music.",
+    "image_url": "https://www.gettyimages.com/photos/taking-back-sunday-band",
+    "website_url": "https://takingbacksunday.com/",
+    "location": "Long Island, New York",
+    "start_date": 1999,
+    "origin": "American",
+    "tag_ids": [
+      "genre_emo",
+      "genre_post_hardcore",
+      "genre_pop_punk",
+      "genre_alternative_rock"
+    ]
+  },
+  {
+    "id": "band_13",
+    "type": "band",
+    "name": "Basic Radio",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s"
+  },
+  {
+    "id": "band_14",
+    "type": "band",
+    "name": "Dance Hall Crashers",
+    "description": "Berkeley ska-punk band founded in 1989 by Operation Ivy alumni Tim Armstrong and Matt Freeman, who left within weeks; dual vocalists Elyse Rogers and Karina Denike defined its classic lineup.",
+    "image_url": "https://en.wikipedia.org/wiki/Dance_Hall_Crashers",
+    "website_url": "https://dancehallcrashers.com/"
+  },
+  {
+    "id": "band_15",
+    "type": "band",
+    "name": "Downfall",
+    "description": "Short-lived Bay Area ska-punk band formed by Tim Armstrong, Matt Freeman, Dave Mello, Pat Mello, and Jason Hammon after Operation Ivy's breakup.",
+    "image_url": "https://en.wikipedia.org/wiki/Downfall_(band)",
+    "website_url": "https://downfalltwentytwelve.com/"
+  },
+  {
+    "id": "band_16",
+    "type": "band",
+    "name": "Shaken 69",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s"
+  },
+  {
+    "id": "band_17",
+    "type": "band",
+    "name": "Devils Brigade",
+    "description": "Rockabilly-punk band led by Rancid bassist Matt Freeman on lead vocals and upright bass.",
+    "image_url": "https://en.wikipedia.org/wiki/Devils_Brigade_(band)",
+    "website_url": "https://thedevilsbrigade.net/"
+  },
+  {
+    "id": "band_18",
+    "type": "band",
+    "name": "Big Rig",
+    "description": "Short-lived Berkeley punk band formed by Jesse Michaels in 1994; released one EP before breaking up.",
+    "image_url": "https://en.wikipedia.org/wiki/Big_Rig_(band)",
+    "website_url": "https://www.bigrig.band/"
+  },
+  {
+    "id": "band_19",
+    "type": "band",
+    "name": "Common Rider",
+    "description": "Band formed in 1999 by ex-Operation Ivy vocalist Jesse Michaels with Mass Giorgini and Dan Lumley; broke up in 2003.",
+    "image_url": "https://en.wikipedia.org/wiki/Common_Rider",
+    "website_url": "https://commonridermusic.com/"
+  },
+  {
+    "id": "band_20",
+    "type": "band",
+    "name": "Classics of Love",
+    "description": "Bay Area punk band fronted by ex-Operation Ivy singer Jesse Michaels; released an EP in 2009 and a self-titled album in 2012.",
+    "image_url": "https://en.wikipedia.org/wiki/Classics_of_Love",
+    "website_url": "https://classicsoflove.com/"
+  },
+  {
+    "id": "band_21",
+    "type": "band",
+    "name": "The Forgotten",
+    "image_url": "https://en.wikipedia.org/wiki/The_Forgotten_(band)",
+    "website_url": "https://www.theforgotten.us/"
+  },
+  {
+    "id": "band_22",
+    "type": "band",
+    "name": "No Use for a Name",
+    "description": "Fat Wreck Chords skate-punk band fronted by Tony Sly; ended with his death in 2012.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://en.wikipedia.org/wiki/No_Use_for_a_Name"
+  },
+  {
+    "id": "band_23",
+    "type": "band",
+    "name": "Sick of It All",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://www.sickofitall.com/"
+  },
+  {
+    "id": "band_24",
+    "type": "band",
+    "name": "Red Hot Chili Peppers",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://redhotchilipeppers.com/"
+  },
+  {
+    "id": "band_26",
+    "type": "band",
+    "name": "Our Lady Peace",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://www.ourladypeace.com/"
+  },
+  {
+    "id": "band_27",
+    "type": "band",
+    "name": "Rusted Root",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://www.rustedroot.com/"
+  },
+  {
+    "id": "band_28",
+    "type": "band",
+    "name": "Sevendust",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://sevendust.com/"
+  },
+  {
+    "id": "band_29",
+    "type": "band",
+    "name": "Collective Soul",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://collectivesoul.com/"
+  },
+  {
+    "id": "band_30",
+    "type": "band",
+    "name": "Godsmack",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://www.godsmack.com/"
+  },
+  {
+    "id": "band_31",
+    "type": "band",
+    "name": "Megadeth",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://megadeth.com/"
+  },
+  {
+    "id": "band_32",
+    "type": "band",
+    "name": "The Supersuckers",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s"
+  },
+  {
+    "id": "band_33",
+    "type": "band",
+    "name": "Big Sugar",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s"
+  },
+  {
+    "id": "band_34",
+    "type": "band",
+    "name": "Muse",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s",
+    "website_url": "https://www.muse.mu/"
+  },
+  {
+    "id": "band_36",
+    "type": "band",
+    "name": "Pushmonkey",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s"
+  },
+  {
+    "id": "band_37",
+    "type": "band",
+    "name": "Cyclefly",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s"
+  },
+  {
+    "id": "band_38",
+    "type": "band",
+    "name": "Indigenous",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_z-4-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q-Y-X-Q&s"
+  },
+  {
+    "name": "Fall Out Boy",
+    "website_url": "https://falloutboy.com/",
+    "id": "band_39",
+    "type": "band"
+  },
+  {
+    "name": "Simple Minds",
+    "website_url": "https://www.simpleminds.com/",
+    "id": "band_40",
+    "type": "band"
+  },
+  {
+    "name": "PUP",
+    "website_url": "https://www.puptheband.com/",
+    "id": "band_41",
+    "type": "band"
+  },
+  {
+    "name": "I Prevail",
+    "website_url": "https://iprevailband.com/",
+    "id": "band_42",
+    "type": "band"
+  },
+  {
+    "name": "Sham 69",
+    "website_url": "https://www.officialsham69.com/",
+    "id": "band_43",
+    "type": "band"
+  },
+  {
+    "name": "Supersuckers",
+    "website_url": "https://supersuckers.com/",
+    "id": "band_44",
+    "type": "band"
+  },
+  {
+    "name": "Lagwagon",
+    "website_url": "https://lagwagon.com/",
+    "id": "band_45",
+    "type": "band",
+    "description": "Santa Barbara skate-punk band of Joey Cape (guitar/vocals) and Dave Raun (drums)."
+  },
+  {
+    "name": "Strung Out",
+    "website_url": "https://strungout.com/",
+    "id": "band_46",
+    "type": "band"
+  },
+  {
+    "name": "Pennywise",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pennywise_(band)"
+      },
+      {
+        "name": "Last.fm",
+        "url": "https://www.last.fm/music/Pennywise"
+      }
+    ],
+    "id": "band_47",
+    "type": "band"
+  },
+  {
+    "name": "The Black Pacific",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Black_Pacific"
+      }
+    ],
+    "website_url": "http://blackpacificband.com",
+    "id": "band_48",
+    "type": "band"
+  },
+  {
+    "name": "One Hit Wonder",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/One_Hit_Wonder"
+      }
+    ],
+    "id": "band_49",
+    "type": "band"
+  },
+  {
+    "name": "Tender Fury",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tender_Fury"
+      },
+      {
+        "name": "Discogs",
+        "url": "https://www.discogs.com/artist/253097-Tender-Fury"
+      }
+    ],
+    "id": "band_50",
+    "type": "band"
+  },
+  {
+    "name": "Ignite",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ignite_(band)"
+      }
+    ],
+    "id": "band_51",
+    "type": "band"
+  },
+  {
+    "name": "Misfits",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Misfits_(band)"
+      }
+    ],
+    "id": "band_52",
+    "type": "band",
+    "description": "Horror punk pioneers founded in 1977; Dez Cadena played guitar 2001-2015 and Robo drummed 1982-1983."
+  },
+  {
+    "name": "The Offspring",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Offspring"
+      }
+    ],
+    "id": "band_53",
+    "type": "band"
+  },
+  {
+    "name": "Social Distortion",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Social_Distortion"
+      }
+    ],
+    "id": "band_54",
+    "type": "band"
+  },
+  {
+    "name": "H2O",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/H2O_(band)"
+      }
+    ],
+    "id": "band_55",
+    "type": "band"
+  },
+  {
+    "name": "Face to Face",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Face_to_Face_(band)"
+      }
+    ],
+    "id": "band_56",
+    "type": "band",
+    "description": "SoCal punk band founded by Trever Keith; Matt Riddle was its original bassist (1991-1995)."
+  },
+  {
+    "name": "The Vandals",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Vandals"
+      }
+    ],
+    "id": "band_57",
+    "type": "band"
+  },
+  {
+    "name": "Adolescents",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adolescents_(band)"
+      }
+    ],
+    "id": "band_58",
+    "type": "band"
+  },
+  {
+    "name": "T.S.O.L.",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/T.S.O.L."
+      }
+    ],
+    "id": "band_59",
+    "type": "band"
+  },
+  {
+    "name": "U.S. Bombs",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/U.S._Bombs"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/USBombs/"
+      }
+    ],
+    "id": "band_60",
+    "type": "band"
+  },
+  {
+    "name": "Youth Brigade",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Youth_Brigade"
+      }
+    ],
+    "id": "band_61",
+    "type": "band",
+    "description": "Los Angeles punk band formed in 1980 by the Stern brothers; Old Man Markley members John Carey and Joey Garibaldi both played in the band in the late 2000s."
+  },
+  {
+    "name": "The Interrupters",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Interrupters"
+      }
+    ],
+    "id": "band_62",
+    "type": "band"
+  },
+  {
+    "name": "Agent Orange",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Agent_Orange_(band)"
+      },
+      {
+        "name": "Last.fm",
+        "url": "https://www.last.fm/music/Agent+Orange"
+      }
+    ],
+    "id": "band_63",
+    "type": "band"
+  },
+  {
+    "name": "The Aquabats",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Aquabats"
+      }
+    ],
+    "id": "band_64",
+    "type": "band",
+    "description": "The Aquabats are a costumed ska/comedy-rock band founded in 1994 by Christian Jacobs and Chad Larson. El Hefe joined on trumpet in 2025."
+  },
+  {
+    "name": "The Crew",
+    "socials": [
+      {
+        "name": "Epitaph Records",
+        "url": "https://www.epitaph.com/"
+      },
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/"
+      }
+    ],
+    "id": "band_65",
+    "type": "band"
+  },
+  {
+    "name": "Chaos Delivery Machine",
+    "socials": [
+      {
+        "name": "Discogs",
+        "url": "https://www.discogs.com/artist/842571-Chaos-Delivery-Machine"
+      }
+    ],
+    "id": "band_66",
+    "type": "band"
+  },
+  {
+    "name": "Lars Frederiksen and the Bastards",
+    "socials": [
+      {
+        "name": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lars_Frederiksen_and_the_Bastards"
+      }
+    ],
+    "id": "band_67",
+    "type": "band",
+    "description": "Rancid guitarist Lars Frederiksen's side project; released a self-titled album in 2001 and Viking in 2004."
+  },
+  {
+    "id": "band_68",
+    "type": "band",
+    "name": "+44",
+    "description": "Band formed by Mark Hoppus and Travis Barker during blink-182's hiatus; released When Your Heart Stops Beating in 2006."
+  },
+  {
+    "id": "band_69",
+    "type": "band",
+    "name": "40Engine",
+    "description": "Punk rock project of Descendents/ALL guitarist Stephen Egerton with former ALL singer Scott Reynolds."
+  },
+  {
+    "id": "band_70",
+    "type": "band",
+    "name": "A Static Lullaby",
+    "description": "Post-hardcore band for which Jarrod Alexander played drums in the early 2000s."
+  },
+  {
+    "id": "band_71",
+    "type": "band",
+    "name": "A Vulture Wake",
+    "description": "Punk supergroup with Chad Price (ALL), Joe Raposo (Lagwagon), Sean Sellers (Good Riddance) and Brandon Landelius."
+  },
+  {
+    "id": "band_72",
+    "type": "band",
+    "name": "AFI",
+    "description": "California rock band formed in 1991; stable lineup since 1998 of Davey Havok, Adam Carson, Hunter Burgan and Jade Puget."
+  },
+  {
+    "id": "band_73",
+    "type": "band",
+    "name": "ALL",
+    "description": "Formed in 1987 by the remaining Descendents members after Milo Aukerman left; cycled through three singers: Smalley, Reynolds, Price."
+  },
+  {
+    "id": "band_74",
+    "type": "band",
+    "name": "Angel City Outcasts",
+    "description": "Street-punk rock'n'roll band from Los Angeles formed in 2002; Ryan Markley drummed for them from 2002 to 2008 before forming Old Man Markley."
+  },
+  {
+    "id": "band_75",
+    "type": "band",
+    "name": "Armchair Martian",
+    "description": "Fort Collins punk/alt-country trio fronted by Jon Snodgrass, formed in 1993."
+  },
+  {
+    "id": "band_76",
+    "type": "band",
+    "name": "Armed Response Unit",
+    "description": "Hardcore punk band featuring drummer Ben Dawson."
+  },
+  {
+    "id": "band_77",
+    "type": "band",
+    "name": "Authority Zero",
+    "description": "Punk rock band from Mesa, Arizona, formed in 1994 around singer Jason DeVore."
+  },
+  {
+    "id": "band_78",
+    "type": "band",
+    "name": "Bad Astronaut",
+    "description": "Indie rock side project of Lagwagon's Joey Cape founded in Santa Barbara in 2000; wound down after drummer Derrick Plourde's death in 2005."
+  },
+  {
+    "id": "band_79",
+    "type": "band",
+    "name": "Bad Cop/Bad Cop",
+    "description": "All-female punk quartet from San Pedro, California, signed to Fat Wreck Chords in 2013. Debut album Not Sorry arrived in 2015; fourth album Lighten Up released in 2025."
+  },
+  {
+    "id": "band_80",
+    "type": "band",
+    "name": "Bad Religion",
+    "description": "Influential LA punk band formed in 1980; Brian Baker joined on guitar in 1994."
+  },
+  {
+    "id": "band_81",
+    "type": "band",
+    "name": "Beneath You",
+    "description": "Bay Area pop-punk band featuring Dance Hall Crashers members Jason and Gavin Hammon, Limp bassist Serge Verkhovsky, and vocalist Mary Diridon."
+  },
+  {
+    "id": "band_82",
+    "type": "band",
+    "name": "Black Flag",
+    "description": "Pioneering hardcore band founded in 1976 by Greg Ginn and Keith Morris; Bill Stevenson drummed from 1981 to 1985."
+  },
+  {
+    "id": "band_83",
+    "type": "band",
+    "name": "Blacktop Idol",
+    "description": "Punk rock band that Bad Cop/Bad Cop's Stacey Dee played in before co-founding Bad Cop/Bad Cop."
+  },
+  {
+    "id": "band_84",
+    "type": "band",
+    "name": "Blaqk Audio",
+    "description": "Electronic side project of AFI's Davey Havok and Jade Puget; debuted with CexCells in 2007."
+  },
+  {
+    "id": "band_85",
+    "type": "band",
+    "name": "Bleeding Through",
+    "description": "Orange County metalcore band; Dave Nassie joined as lead guitarist in 2009."
+  },
+  {
+    "id": "band_86",
+    "type": "band",
+    "name": "Box Car Racer",
+    "description": "Short-lived side project of Tom DeLonge and Travis Barker with David Kennedy; one self-titled album in 2002."
+  },
+  {
+    "id": "band_87",
+    "type": "band",
+    "name": "Caustic Cause",
+    "description": "Early-1980s Santa Barbara punk band; Erik Sandin played drums in the band before co-founding NOFX."
+  },
+  {
+    "id": "band_88",
+    "type": "band",
+    "name": "Cherry Poppin' Daddies",
+    "description": "Swing and ska band formed in Eugene, Oregon in 1989 by Steve Perry and Dan Schmid; broke through nationally with 1997's Zoot Suit Riot."
+  },
+  {
+    "id": "band_89",
+    "type": "band",
+    "name": "Chris Shiflett & the Dead Peasants",
+    "description": "Chris Shiflett's country-influenced band, which he fronted starting with a 2010 self-titled album."
+  },
+  {
+    "id": "band_90",
+    "type": "band",
+    "name": "Circle Jerks",
+    "description": "Hardcore band founded in 1979 by ex-Black Flag singer Keith Morris and guitarist Greg Hetson."
+  },
+  {
+    "id": "band_91",
+    "type": "band",
+    "name": "Compton SF",
+    "description": "Punk rock band that Bad Cop/Bad Cop's Stacey Dee played in before co-founding Bad Cop/Bad Cop."
+  },
+  {
+    "id": "band_92",
+    "type": "band",
+    "name": "Dag Nasty",
+    "description": "DC melodic hardcore band founded by Brian Baker in 1985; Dave Smalley sang on Can I Say (1986)."
+  },
+  {
+    "id": "band_93",
+    "type": "band",
+    "name": "Dead Ending",
+    "description": "Chicago punk supergroup featuring Derek Grant on drums."
+  },
+  {
+    "id": "band_94",
+    "type": "band",
+    "name": "Death By Stereo",
+    "description": "Orange County hardcore band; Jarrod Alexander was its original drummer (1998-2000)."
+  },
+  {
+    "id": "band_95",
+    "type": "band",
+    "name": "Descendents",
+    "description": "Pioneering pop-punk band formed in 1977; singer Milo Aukerman's caricature is their mascot."
+  },
+  {
+    "id": "band_96",
+    "type": "band",
+    "name": "Dive Dive",
+    "description": "Oxford alternative rock band featuring Ben Lloyd, Tarrant Anderson and Nigel Powell."
+  },
+  {
+    "id": "band_97",
+    "type": "band",
+    "name": "Double Black",
+    "description": "Melbourne band whose drummer is former Living End drummer Travis Demsey."
+  },
+  {
+    "id": "band_98",
+    "type": "band",
+    "name": "Drag the River",
+    "description": "Alt-country band co-founded in 1996 by ALL singer Chad Price and Jon Snodgrass."
+  },
+  {
+    "id": "band_99",
+    "type": "band",
+    "name": "Ellwood",
+    "description": "Ska-reggae side project of Chuck Robertson with fellow Mad Caddies Graham Palmer, Todd Rosenberg and Dustin Lanker; released Lost in Transition (2011) on Fat Wreck Chords."
+  },
+  {
+    "id": "band_100",
+    "type": "band",
+    "name": "Fatty Cakes and the Puff Pastries",
+    "description": "Band that Reckoner's Candace Hansen has performed with."
+  },
+  {
+    "id": "band_101",
+    "type": "band",
+    "name": "Fighting With Wire",
+    "description": "Derry alternative rock band fronted by Cahir O'Doherty, with Craig McKean on drums and Jamie King on bass."
+  },
+  {
+    "id": "band_102",
+    "type": "band",
+    "name": "Filthy Thieving Bastards",
+    "description": "Folk-punk side project formed in 2000 by Swingin' Utters members Johnny Bonnel and Darius Koski with Spike Slawson and Randy Burk."
+  },
+  {
+    "id": "band_103",
+    "type": "band",
+    "name": "Fireworks",
+    "description": "Detroit pop-punk band; bassist Kyle O'Neil has been a member since 2004 (with a hiatus)."
+  },
+  {
+    "id": "band_104",
+    "type": "band",
+    "name": "FLAG",
+    "description": "Touring outfit of ex-Black Flag members Keith Morris, Chuck Dukowski, Bill Stevenson, Dez Cadena and Descendents/ALL guitarist Stephen Egerton performing Black Flag material."
+  },
+  {
+    "id": "band_105",
+    "type": "band",
+    "name": "Foo Fighters",
+    "description": "Rock band founded by Dave Grohl; Chris Shiflett has been lead guitarist since 1999. (Not deep-expanded per coordinator.)"
+  },
+  {
+    "id": "band_106",
+    "type": "band",
+    "name": "Future of the Left",
+    "description": "Cardiff band formed in 2005 by ex-Mclusky members Andy Falkous and Jack Egglestone; Julia Ruzicka joined on bass in 2010."
+  },
+  {
+    "id": "band_107",
+    "type": "band",
+    "name": "Germs",
+    "description": "The Germs were Los Angeles punk pioneers whose sole album, (GI) (1979), was produced by Joan Jett. The band ended with Darby Crash's death in 1980."
+  },
+  {
+    "id": "band_108",
+    "type": "band",
+    "name": "Gone",
+    "description": "Instrumental trio formed by Greg Ginn in late 1985; opened Black Flag's entire 1986 tour."
+  },
+  {
+    "id": "band_109",
+    "type": "band",
+    "name": "Good Riddance",
+    "description": "Santa Cruz melodic hardcore band founded by singer Russ Rankin in 1986."
+  },
+  {
+    "id": "band_110",
+    "type": "band",
+    "name": "Home Street Home",
+    "description": "Punk rock musical with music by NOFX's Fat Mike and book/lyrics by Fat Mike, Jeff Marx (Avenue Q) and Soma Snakeoil. The studio album Original Songs from the Shit Musical was released in 2015 on Fat Wreck Chords and staged at Z Space, San Francisco."
+  },
+  {
+    "id": "band_111",
+    "type": "band",
+    "name": "Infectious Grooves",
+    "description": "Funk metal side project of Suicidal Tendencies members; Dave Nassie played guitar 1994-1999."
+  },
+  {
+    "id": "band_112",
+    "type": "band",
+    "name": "Jackson United",
+    "description": "Jackson United was a punk rock side project formed by Foo Fighters guitarist Chris Shiflett with his brother Scott on bass."
+  },
+  {
+    "id": "band_113",
+    "type": "band",
+    "name": "Jaws",
+    "description": "2006 project led by Carter Benson under the alias Sharky Towers with Derrick Plourde and Joe Raposo; released Death & Taxes Volume One."
+  },
+  {
+    "id": "band_114",
+    "type": "band",
+    "name": "Jetplane Landing",
+    "description": "Derry band conceived in 1999 by Andrew Ferris and Jamie Burchell; Cahir O'Doherty joined as second guitarist."
+  },
+  {
+    "id": "band_115",
+    "type": "band",
+    "name": "Kinothek",
+    "description": "Solo project of Mad Caddies bassist Graham Palmer, recording since 2008."
+  },
+  {
+    "id": "band_116",
+    "type": "band",
+    "name": "Kneejerk",
+    "description": "London emo/hardcore band whose members included Frank Turner and Ben Dawson before they formed Million Dead."
+  },
+  {
+    "id": "band_117",
+    "type": "band",
+    "name": "L.A. Crimes",
+    "description": "Band whose member Sven Wallwork plays in Reckoner."
+  },
+  {
+    "id": "band_118",
+    "type": "band",
+    "name": "Larry",
+    "description": "Band that Monique Powell played in at Fullerton College before joining Save Ferris."
+  },
+  {
+    "id": "band_119",
+    "type": "band",
+    "name": "Library Sciences",
+    "description": "Collaborative audio zine project between Jennie Cotterill and Sara M. Lyons."
+  },
+  {
+    "id": "band_120",
+    "type": "band",
+    "name": "Limp",
+    "description": "Bay Area pop-punk band; longtime bassist Serge Verkhovsky also plays in Beneath You."
+  },
+  {
+    "id": "band_121",
+    "type": "band",
+    "name": "Los Pantalones",
+    "description": "Punk and mariachi-influenced band whose members Brian Mashburn, Bill Uechi, Eric Zamora and Jose Castellanos went on to form Save Ferris in 1995."
+  },
+  {
+    "id": "band_122",
+    "type": "band",
+    "name": "Mad Caddies",
+    "description": "Santa Barbara ska punk band formed in 1995 and signed to Fat Wreck Chords; their eight studio albums include Duck and Cover and Punk Rocksteady."
+  },
+  {
+    "id": "band_123",
+    "type": "band",
+    "name": "Mariachi El Bronx",
+    "description": "Mariachi alter ego of LA punk band The Bronx, formed in 2009; trumpeter Keith Douglas joined after leaving the Mad Caddies."
+  },
+  {
+    "id": "band_124",
+    "type": "band",
+    "name": "Matt Skiba and the Sekrets",
+    "description": "Matt Skiba's side project with AFI's Hunter Burgan on bass and Jarrod Alexander on drums; released Babylon (2012) and KUTS (2015)."
+  },
+  {
+    "id": "band_125",
+    "type": "band",
+    "name": "Mclusky",
+    "description": "Cardiff post-hardcore band formed in 1996; Andy Falkous, Jack Egglestone and Jon Chapple were members before it split in 2005."
+  },
+  {
+    "id": "band_126",
+    "type": "band",
+    "name": "Me First and the Gimme Gimmes",
+    "description": "Punk rock supergroup known for punk covers; Stacey Dee filled in for Joey Cape on guitar and vocals for a few dates of their 2019 European tour."
+  },
+  {
+    "id": "band_127",
+    "type": "band",
+    "name": "Mighty Mighty Bosstones",
+    "description": "Boston ska-core band formed in 1983; keyboardist Johnny Goetchius joined the band in 2008 after his stint with the Cherry Poppin' Daddies."
+  },
+  {
+    "id": "band_128",
+    "type": "band",
+    "name": "Million Dead",
+    "description": "London post-hardcore band fronted by Frank Turner; released A Song to Ruin (2003) and Harmony No Harmony (2005), then reunited in 2025."
+  },
+  {
+    "id": "band_129",
+    "type": "band",
+    "name": "Mothlite",
+    "description": "Experimental band featuring drummer Ben Dawson alongside Daniel O'Sullivan."
+  },
+  {
+    "id": "band_130",
+    "type": "band",
+    "name": "Mïngle Härde",
+    "description": "Hardcore punk band formed in 2012 by Frank Turner (vocals), Ben Dawson (drums) and Matt Nasir (guitar); formerly known as Möngöl Hörde."
+  },
+  {
+    "id": "band_131",
+    "type": "band",
+    "name": "New Pagans",
+    "description": "Derry band featuring vocalist/guitarist Cahir O'Doherty; their debut album The Seed, The Vessel, The Roots and All came out in 2021."
+  },
+  {
+    "id": "band_132",
+    "type": "band",
+    "name": "Nirvana",
+    "description": "Nirvana was the grunge band fronted by Kurt Cobain; its 1991 album Nevermind brought underground rock to the mainstream. The band ended with Cobain's death in 1994."
+  },
+  {
+    "id": "band_133",
+    "type": "band",
+    "name": "No Doubt",
+    "description": "Anaheim ska-pop band; Alan Meade, now vocalist of Starpool, is a former member."
+  },
+  {
+    "id": "band_134",
+    "type": "band",
+    "name": "Nuckle Brothers",
+    "description": "Third-wave ska band whose trombonist Brian 'T-Bone Willy' Williams joined Save Ferris in 1996."
+  },
+  {
+    "id": "band_135",
+    "type": "band",
+    "name": "Off!",
+    "description": "Hardcore punk supergroup formed by Keith Morris with Dimitri Coats, Steven McDonald and Mario Rubalcaba."
+  },
+  {
+    "id": "band_136",
+    "type": "band",
+    "name": "Old Man Markley",
+    "description": "Punk-bluegrass band formed in the San Fernando Valley in 2007 and signed to Fat Wreck Chords in 2010; debut album Guts n' Teeth debuted at #8 on the Billboard Bluegrass chart."
+  },
+  {
+    "id": "band_137",
+    "type": "band",
+    "name": "Only Crime",
+    "description": "Melodic hardcore band formed by Good Riddance singer Russ Rankin with drummer Bill Stevenson in 2003."
+  },
+  {
+    "id": "band_138",
+    "type": "band",
+    "name": "Palehorse",
+    "description": "UK sludge band whose drummer is Ben Dawson."
+  },
+  {
+    "id": "band_139",
+    "type": "band",
+    "name": "Pollyanna",
+    "description": "Sydney alternative rock band whose drummer included Andy Strachan before he joined The Living End."
+  },
+  {
+    "id": "band_140",
+    "type": "band",
+    "name": "Queen of Swords",
+    "description": "Experimental band featuring drummer Ben Dawson."
+  },
+  {
+    "id": "band_141",
+    "type": "band",
+    "name": "Quiet Kill",
+    "description": "Short-lived band formed by Julia Ruzicka and Tom Fowler after Million Dead split."
+  },
+  {
+    "id": "band_142",
+    "type": "band",
+    "name": "Re-Volts",
+    "description": "San Francisco punk supergroup formed in 2007 with Spike Slawson, Jack Dalrymple, and other Bay Area scene veterans."
+  },
+  {
+    "id": "band_143",
+    "type": "band",
+    "name": "Reckoner",
+    "description": "Los Angeles punk band founded in 2024 by ex-Bad Cop/Bad Cop singer/guitarist Jennie Cotterill."
+  },
+  {
+    "id": "band_144",
+    "type": "band",
+    "name": "Reel Big Fish",
+    "description": "Ska-punk band; Monique Powell sang guest vocals on 'She Has A Girlfriend Now' from their 1996 album Turn the Radio Off."
+  },
+  {
+    "id": "band_145",
+    "type": "band",
+    "name": "Rich Kids on LSD",
+    "description": "Hardcore punk band formed in Montecito in 1982; both Derrick Plourde and Chris Rest played in the band."
+  },
+  {
+    "id": "band_146",
+    "type": "band",
+    "name": "Rollins Band",
+    "description": "Band led by former Black Flag vocalist Henry Rollins, active 1987-2006; known for 'Liar' and 'Low Self Opinion'."
+  },
+  {
+    "id": "band_147",
+    "type": "band",
+    "name": "Runaway Boys",
+    "description": "Punk/rockabilly band formed by Chris Cheney and Scott Owen in 1992; renamed The Living End in 1994."
+  },
+  {
+    "id": "band_148",
+    "type": "band",
+    "name": "Save Ferris",
+    "description": "Orange County third-wave ska-punk band fronted by Monique Powell. Broke up in 2002 after two albums and was reformed by Powell in 2013."
+  },
+  {
+    "id": "band_149",
+    "type": "band",
+    "name": "Scorpios",
+    "description": "Acoustic punk supergroup of Joey Cape, Jon Snodgrass, Brian Wahlstrom and the late Tony Sly of No Use for a Name."
+  },
+  {
+    "id": "band_150",
+    "type": "band",
+    "name": "Scream",
+    "description": "Scream was a Washington, D.C. hardcore band on Dischord Records; Dave Grohl drummed for them from 1986 to 1990 before joining Nirvana."
+  },
+  {
+    "id": "band_151",
+    "type": "band",
+    "name": "Sparker",
+    "description": "Santa Barbara ska band whose shows got a teenaged Chuck Robertson into ska; Sean Sellers played drums in the band."
+  },
+  {
+    "id": "band_152",
+    "type": "band",
+    "name": "Starpool",
+    "description": "Ska band formed in 2003 by ex-Save Ferris members Brian Mashburn, Bill Uechi, Eric Zamora and T-Bone Willy plus former No Doubt member Alan Meade."
+  },
+  {
+    "id": "band_153",
+    "type": "band",
+    "name": "Strange News From Another Star",
+    "description": "Welsh band fronted by Jimmy Watkins."
+  },
+  {
+    "id": "band_154",
+    "type": "band",
+    "name": "Sugarcult",
+    "description": "Sugarcult was a Santa Barbara pop-punk band whose debut Start Static (2001) went gold; Marko DeSantis played lead guitar."
+  },
+  {
+    "id": "band_155",
+    "type": "band",
+    "name": "Sunny Day Real Estate",
+    "description": "Sunny Day Real Estate was a pioneering emo band whose debut Diary (1994) is considered a landmark of the genre. Mendel and Goldsmith left in 1995 to join Foo Fighters."
+  },
+  {
+    "id": "band_156",
+    "type": "band",
+    "name": "Sweet Action",
+    "description": "1999 pop-punk side project of Chuck Robertson, Sascha Lazor, Carter Benson and Derrick Plourde; tracks circulated on Mp3.com."
+  },
+  {
+    "id": "band_157",
+    "type": "band",
+    "name": "Swingin' Utters",
+    "description": "California punk band formed in 1988; its classic lineup included Johnny Bonnel, Darius Koski, Jack Dalrymple, Spike Slawson, and Greg McEntee."
+  },
+  {
+    "id": "band_158",
+    "type": "band",
+    "name": "Taylor Hawkins and the Coattail Riders",
+    "description": "Taylor Hawkins and the Coattail Riders was a rock side band founded by Foo Fighters drummer Taylor Hawkins, who sang and played drums; it ended with his death in 2022."
+  },
+  {
+    "id": "band_159",
+    "type": "band",
+    "name": "The Angry Amputees",
+    "description": "Punk rock band that Bad Cop/Bad Cop's Stacey Dee played in before co-founding Bad Cop/Bad Cop."
+  },
+  {
+    "id": "band_160",
+    "type": "band",
+    "name": "The Ataris",
+    "description": "Pop punk band founded by Kris Roe in Anderson, Indiana in the mid-1990s."
+  },
+  {
+    "id": "band_161",
+    "type": "band",
+    "name": "The City",
+    "description": "Punk rock band that Bad Cop/Bad Cop's Stacey Dee played in before co-founding Bad Cop/Bad Cop."
+  },
+  {
+    "id": "band_162",
+    "type": "band",
+    "name": "The Damned Things",
+    "description": "Rock supergroup of Scott Ian and Rob Caggiano (Anthrax), Joe Trohman and Andy Hurley (Fall Out Boy), Keith Buckley (Every Time I Die); Dan Andriano played bass on 2019's High Crimes."
+  },
+  {
+    "id": "band_163",
+    "type": "band",
+    "name": "The Falcon",
+    "description": "Chicago punk supergroup with Brendan Kelly and Neil Hennessy (Lawrence Arms), Dan Andriano, and Todd Mohney on the debut EP."
+  },
+  {
+    "id": "band_164",
+    "type": "band",
+    "name": "The Idle Hearts",
+    "description": "Band featuring Julia Ruzicka and Tom Fowler, active in 2009."
+  },
+  {
+    "id": "band_165",
+    "type": "band",
+    "name": "The Living End",
+    "description": "Australian rock band formed in 1994 by Chris Cheney and Scott Owen; their 1998 self-titled debut topped the Australian chart."
+  },
+  {
+    "id": "band_166",
+    "type": "band",
+    "name": "The Old Firm Casuals",
+    "description": "Street punk band Rancid guitarist Lars Frederiksen records with alongside his Bastards project."
+  },
+  {
+    "id": "band_167",
+    "type": "band",
+    "name": "The Sleeping Souls",
+    "description": "Frank Turner's backing band, named after a lyric from his song I Am Disappeared. The members released their own debut album in 2023."
+  },
+  {
+    "id": "band_168",
+    "type": "band",
+    "name": "The Suicide Machines",
+    "description": "Detroit ska-punk band; Derek Grant drummed for them from 1998 to 2001."
+  },
+  {
+    "id": "band_169",
+    "type": "band",
+    "name": "The Visible Men",
+    "description": "Piano rock trio formed by Dustin Lanker and Dan Schmid in 1999; released two albums before going on hiatus in 2007."
+  },
+  {
+    "id": "band_170",
+    "type": "band",
+    "name": "The Wallflowers",
+    "description": "The Wallflowers is a Los Angeles rock band centered on singer-songwriter Jakob Dylan; Rami Jaffee played keyboards from 1990 to 2005."
+  },
+  {
+    "id": "band_171",
+    "type": "band",
+    "name": "The Wrights",
+    "description": "Australian supergroup featuring Chris Cheney on guitar; their 2004 cover of Stevie Wright's Evie was a hit single."
+  },
+  {
+    "id": "band_172",
+    "type": "band",
+    "name": "Them Crooked Vultures",
+    "description": "Them Crooked Vultures was a rock supergroup of Josh Homme, John Paul Jones, and Dave Grohl; their debut won the 2011 Grammy for Best Hard Rock Performance."
+  },
+  {
+    "id": "band_173",
+    "type": "band",
+    "name": "Unbelievable Truth",
+    "description": "Oxford rock band led by Andy Yorke, with Nigel Powell on drums; released two albums before splitting in 2000."
+  },
+  {
+    "id": "band_174",
+    "type": "band",
+    "name": "Voodoo Glow Skulls",
+    "description": "Ska punk band formed in Riverside in 1988 by the Casillas brothers; Mark Bush played trumpet with the band before joining the Mad Caddies."
+  },
+  {
+    "id": "band_175",
+    "type": "band",
+    "name": "White Hot Odyssey",
+    "description": "Glam-influenced hard rock band formed by Steve Perry and Jason Moss; released one self-titled album in 2004."
+  },
+  {
+    "id": "band_176",
+    "type": "band",
+    "name": "Who Owns Death TV",
+    "description": "Band featuring Julia Ruzicka and Tom Fowler, formed after Quiet Kill."
+  },
+  {
+    "id": "band_177",
+    "type": "band",
+    "name": "XTRMST",
+    "description": "Straight edge hardcore project of AFI's Davey Havok and Jade Puget; released one self-titled album in 2014."
+  },
+  {
+    "id": "band_178",
+    "type": "band",
+    "name": "Year of the Fist",
+    "description": "Bay Area punk band; longtime Limp bassist Serge Verkhovsky played bass for the group."
+  }
+]
