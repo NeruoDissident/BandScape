@@ -246,7 +246,10 @@ const useDataStore = create((set, get) => ({
       set({ isLoading: true, error: null })
 
       const fetchText = async (url) => {
-        const res = await fetch(url)
+        // Data files are unhashed, so a cached copy would otherwise
+        // outlive a deploy. no-store means every open loads the newest
+        // bands/members/links, not whatever the browser cached last time.
+        const res = await fetch(url, { cache: 'no-store' })
         return { ok: res.ok, status: res.status, statusText: res.statusText, text: res.ok ? await res.text() : '' }
       }
 

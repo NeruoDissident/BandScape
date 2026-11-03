@@ -16,14 +16,9 @@
   </head>
   <body>
     <div id="root"></div>
-    <script>
-      // Register service worker for A2HS and basic offline support
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-          navigator.serviceWorker.register('/sw.js').catch(() => {})
-        })
-      }
-    </script>
+    <!-- Service worker registration lives in src/pwa.js (imported by
+         main.jsx), which also handles updates on reopen. Registering it
+         here too would double-register and skip the update handling. -->
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

@@ -1,0 +1,13 @@
+# Netlify-style headers. Ignored by other hosts, harmless there.
+# The app shell, worker, version file and data files must never be served
+# from a stale HTTP cache, or a new deploy looks identical to the old one.
+/sw.js
+  Cache-Control: no-cache, must-revalidate
+/version.json
+  Cache-Control: no-cache, must-revalidate
+/index.html
+  Cache-Control: no-cache, must-revalidate
+/*.json
+  Cache-Control: no-cache, must-revalidate
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
