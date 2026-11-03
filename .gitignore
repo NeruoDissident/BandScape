@@ -1,7 +1,13 @@
-
 # Ignore secrets
 serviceAccountKey.json
 firebase_config.json
+companion/.env
+.env
 
 # Ignore generated data files
 *_cleaned.json
+*.backup.json
+
+# Ignore build output and dependencies (never commit these)
+dist/
+node_modules/
