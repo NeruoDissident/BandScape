@@ -324,7 +324,10 @@
     },
     "start_date": 2005,
     "end_date": 2011,
-    "origin": "San Diego, CA"
+    "origin": "San Diego, CA",
+    "instruments": [
+      "drums"
+    ]
   },
   {
     "id": "member_17",
@@ -390,7 +393,10 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kevin_Bivona_%28cropped%29.jpg",
     "website_url": "https://en.wikipedia.org/wiki/Kevin_Bivona",
     "start_date": 2011,
-    "origin": "Van Nuys, CA"
+    "origin": "Van Nuys, CA",
+    "instruments": [
+      "guitar, vocals"
+    ]
   },
   {
     "id": "member_22",
@@ -617,7 +623,10 @@
     "website_url": "https://www.thejoshfreese.com",
     "start_date": 2005,
     "end_date": 2008,
-    "origin": "Orlando, FL"
+    "origin": "Orlando, FL",
+    "instruments": [
+      "drums"
+    ]
   },
   {
     "id": "member_38",
@@ -1140,7 +1149,10 @@
     "type": "member",
     "name": "Mike Ness",
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-v-7-4X-t4-R-p-Y-p-Q-X-t-Y-Q-X-t-Y-Q&s",
-    "website_url": "https://en.wikipedia.org/wiki/Mike_Ness"
+    "website_url": "https://en.wikipedia.org/wiki/Mike_Ness",
+    "instruments": [
+      "vocals, lead guitar"
+    ]
   },
   {
     "id": "member_111",
@@ -2920,6 +2932,1208 @@
     "description": "Drummer for The Living End from 1996 to 2002; he now drums for Melbourne band Double Black and works as a youth worker.",
     "instruments": [
       "drums"
+    ]
+  },
+  {
+    "id": "member_328",
+    "type": "member",
+    "name": "Marty Chandler",
+    "description": "\"Metal\" Marty Chandler.",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_329",
+    "type": "member",
+    "name": "Christopher von Streicher",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_330",
+    "type": "member",
+    "name": "Ron Heathman",
+    "description": "Ron \"Rontrose\" Heathman.",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_331",
+    "type": "member",
+    "name": "Dan Siegel",
+    "description": "Also known as Dancing Eagle.",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_332",
+    "type": "member",
+    "name": "Scott Churilla",
+    "description": "Scott \"Scottzilla\" Churilla.",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_333",
+    "type": "member",
+    "name": "Eric Martin",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_334",
+    "type": "member",
+    "name": "Patrick Stump",
+    "instruments": [
+      "vocals, rhythm guitar"
+    ]
+  },
+  {
+    "id": "member_335",
+    "type": "member",
+    "name": "Pete Wentz",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_336",
+    "type": "member",
+    "name": "Mike Pareskuwicz",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_337",
+    "type": "member",
+    "name": "T.J. Kunasch",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_338",
+    "type": "member",
+    "name": "Brandon Hamm",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_339",
+    "type": "member",
+    "name": "Ben Rose",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_340",
+    "type": "member",
+    "name": "John Flamandan",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_341",
+    "type": "member",
+    "name": "Jim Kerr",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_342",
+    "type": "member",
+    "name": "Charlie Burchill",
+    "instruments": [
+      "guitar, keyboards"
+    ]
+  },
+  {
+    "id": "member_343",
+    "type": "member",
+    "name": "Mick MacNeil",
+    "instruments": [
+      "keyboards"
+    ]
+  },
+  {
+    "id": "member_344",
+    "type": "member",
+    "name": "Derek Forbes",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_345",
+    "type": "member",
+    "name": "Brian McGee",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_346",
+    "type": "member",
+    "name": "Mel Gaynor",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_347",
+    "type": "member",
+    "name": "John Giblin",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_348",
+    "type": "member",
+    "name": "Stefan Babcock",
+    "instruments": [
+      "vocals, rhythm guitar"
+    ]
+  },
+  {
+    "id": "member_349",
+    "type": "member",
+    "name": "Steve Sladkowski",
+    "instruments": [
+      "lead guitar"
+    ]
+  },
+  {
+    "id": "member_350",
+    "type": "member",
+    "name": "Nestor Chumak",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_351",
+    "type": "member",
+    "name": "Zack Mykula",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_352",
+    "type": "member",
+    "name": "Eric Vanlerberghe",
+    "instruments": [
+      "lead vocals"
+    ]
+  },
+  {
+    "id": "member_353",
+    "type": "member",
+    "name": "Steve Menoian",
+    "instruments": [
+      "lead guitar"
+    ]
+  },
+  {
+    "id": "member_354",
+    "type": "member",
+    "name": "Dylan Bowman",
+    "instruments": [
+      "rhythm guitar"
+    ]
+  },
+  {
+    "id": "member_355",
+    "type": "member",
+    "name": "Gabe Helguera",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_356",
+    "type": "member",
+    "name": "Jon Eberhard",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_357",
+    "type": "member",
+    "name": "Brian Burkheiser",
+    "instruments": [
+      "clean vocals"
+    ]
+  },
+  {
+    "id": "member_358",
+    "type": "member",
+    "name": "Jordan Berger",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_359",
+    "type": "member",
+    "name": "Tony Camposeo",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_360",
+    "type": "member",
+    "name": "Lee Runestad",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_361",
+    "type": "member",
+    "name": "Jimmy Pursey",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_362",
+    "type": "member",
+    "name": "Dave Parsons",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_363",
+    "type": "member",
+    "name": "Dave Tregunna",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_364",
+    "type": "member",
+    "name": "Spike T. Smith",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_365",
+    "type": "member",
+    "name": "Neil Harris",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_366",
+    "type": "member",
+    "name": "Albie Slider",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_367",
+    "type": "member",
+    "name": "Mark Cain",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_368",
+    "type": "member",
+    "name": "Ricky Goldstein",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_369",
+    "type": "member",
+    "name": "Ian Whitewood",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_370",
+    "type": "member",
+    "name": "Robin Guy",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_371",
+    "type": "member",
+    "name": "Mat Sargent",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_372",
+    "type": "member",
+    "name": "Jason Cruz",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_373",
+    "type": "member",
+    "name": "Rob Ramos",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_374",
+    "type": "member",
+    "name": "Chris Aiken",
+    "instruments": [
+      "bass, guitar"
+    ]
+  },
+  {
+    "id": "member_375",
+    "type": "member",
+    "name": "Daniel Blume",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_376",
+    "type": "member",
+    "name": "Derik Envy",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_377",
+    "type": "member",
+    "name": "Jake Kiley",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_378",
+    "type": "member",
+    "name": "Jordan Burns",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_379",
+    "type": "member",
+    "name": "Jim Cherry",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_380",
+    "type": "member",
+    "name": "RJ Shankle",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_381",
+    "type": "member",
+    "name": "Adam Austin",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_382",
+    "type": "member",
+    "name": "Brad Morrison",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_383",
+    "type": "member",
+    "name": "Jim Lindberg",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_384",
+    "type": "member",
+    "name": "Fletcher Dragge",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_385",
+    "type": "member",
+    "name": "Byron McMackin",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_386",
+    "type": "member",
+    "name": "Randy Bradbury",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_387",
+    "type": "member",
+    "name": "Jason Thirsk",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_388",
+    "type": "member",
+    "name": "Zoltán Téglás",
+    "description": "Known as Zoli Téglás.",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_389",
+    "type": "member",
+    "name": "Alan Vega",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_390",
+    "type": "member",
+    "name": "Davey Latter",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_391",
+    "type": "member",
+    "name": "Gavin Caswell",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_392",
+    "type": "member",
+    "name": "Marc Orrell",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_393",
+    "type": "member",
+    "name": "Dan Root",
+    "instruments": [
+      "vocals, guitar"
+    ]
+  },
+  {
+    "id": "member_394",
+    "type": "member",
+    "name": "Chris Webb",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_395",
+    "type": "member",
+    "name": "Daniel Gadberry",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_396",
+    "type": "member",
+    "name": "Trey Pangborn",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_397",
+    "type": "member",
+    "name": "Robbie Allen",
+    "instruments": [
+      "vocals, guitar"
+    ]
+  },
+  {
+    "id": "member_398",
+    "type": "member",
+    "name": "Ray Rodriguez",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_399",
+    "type": "member",
+    "name": "Jack Grisham",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_400",
+    "type": "member",
+    "name": "Todd Barnes",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_401",
+    "type": "member",
+    "name": "Hunt Sales",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_402",
+    "type": "member",
+    "name": "Frank Agnew",
+    "instruments": [
+      "guitar, vocals"
+    ]
+  },
+  {
+    "id": "member_403",
+    "type": "member",
+    "name": "Brett Rasmussen",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_404",
+    "type": "member",
+    "name": "Craig Anderson",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_405",
+    "type": "member",
+    "name": "Nik Hill",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_406",
+    "type": "member",
+    "name": "Eli Santana",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_407",
+    "type": "member",
+    "name": "Brian Balchack",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_408",
+    "type": "member",
+    "name": "Casey Jones",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_409",
+    "type": "member",
+    "name": "Joe Foster",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_410",
+    "type": "member",
+    "name": "Dexter Holland",
+    "instruments": [
+      "vocals, guitar"
+    ]
+  },
+  {
+    "id": "member_411",
+    "type": "member",
+    "name": "Noodles",
+    "instruments": [
+      "lead guitar"
+    ]
+  },
+  {
+    "id": "member_412",
+    "type": "member",
+    "name": "Todd Morse",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_413",
+    "type": "member",
+    "name": "Jonah Nimoy",
+    "instruments": [
+      "multi-instrumentalist"
+    ]
+  },
+  {
+    "id": "member_414",
+    "type": "member",
+    "name": "Brandon Pertzborn",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_415",
+    "type": "member",
+    "name": "Greg Kriesel",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_416",
+    "type": "member",
+    "name": "James Lilja",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_417",
+    "type": "member",
+    "name": "Ron Welty",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_418",
+    "type": "member",
+    "name": "Jonny Wickersham",
+    "description": "Jonny \"2 Bags\" Wickersham.",
+    "instruments": [
+      "rhythm guitar"
+    ]
+  },
+  {
+    "id": "member_419",
+    "type": "member",
+    "name": "Brent Harding",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_420",
+    "type": "member",
+    "name": "David Hidalgo Jr.",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_421",
+    "type": "member",
+    "name": "Dennis Danell",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_422",
+    "type": "member",
+    "name": "John Maurer",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_423",
+    "type": "member",
+    "name": "Christopher Reece",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_424",
+    "type": "member",
+    "name": "Charlie Quintana",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_425",
+    "type": "member",
+    "name": "Toby Morse",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_426",
+    "type": "member",
+    "name": "Rusty Pistachio",
+    "instruments": [
+      "lead guitar"
+    ]
+  },
+  {
+    "id": "member_427",
+    "type": "member",
+    "name": "Adam Blake",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_428",
+    "type": "member",
+    "name": "Matt Henderson",
+    "instruments": [
+      "rhythm guitar"
+    ]
+  },
+  {
+    "id": "member_429",
+    "type": "member",
+    "name": "Max Morse",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_430",
+    "type": "member",
+    "name": "Todd Friend",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_431",
+    "type": "member",
+    "name": "Eric Rice",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_432",
+    "type": "member",
+    "name": "Max Capshaw",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_433",
+    "type": "member",
+    "name": "Colin McGinnis",
+    "instruments": [
+      "rhythm guitar"
+    ]
+  },
+  {
+    "id": "member_434",
+    "type": "member",
+    "name": "Joe Escalante",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_435",
+    "type": "member",
+    "name": "Dave Quackenbush",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_436",
+    "type": "member",
+    "name": "Warren Fitzgerald",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_437",
+    "type": "member",
+    "name": "Stevo Jensen",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_438",
+    "type": "member",
+    "name": "Jan Nils Ackermann",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_439",
+    "type": "member",
+    "name": "Steve Pfauter",
+    "description": "Steve \"Human\" Pfauter.",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_440",
+    "type": "member",
+    "name": "Tony Reflex",
+    "description": "Also known as Tony Cadena; one person, not two nodes.",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_441",
+    "type": "member",
+    "name": "Mike Cambra",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_442",
+    "type": "member",
+    "name": "Ian Taylor",
+    "instruments": [
+      "rhythm guitar"
+    ]
+  },
+  {
+    "id": "member_443",
+    "type": "member",
+    "name": "Brad Logan",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_444",
+    "type": "member",
+    "name": "Steve Soto",
+    "instruments": [
+      "bass, vocals"
+    ]
+  },
+  {
+    "id": "member_445",
+    "type": "member",
+    "name": "Rikk Agnew",
+    "instruments": [
+      "guitar, vocals"
+    ]
+  },
+  {
+    "id": "member_446",
+    "type": "member",
+    "name": "Casey Royer",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_447",
+    "type": "member",
+    "name": "Derek O'Brien",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_448",
+    "type": "member",
+    "name": "Ron Emory",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_449",
+    "type": "member",
+    "name": "Mike Roche",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_450",
+    "type": "member",
+    "name": "Greg Kuehn",
+    "instruments": [
+      "piano, synths"
+    ]
+  },
+  {
+    "id": "member_451",
+    "type": "member",
+    "name": "Antonio Val Hernandez",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_452",
+    "type": "member",
+    "name": "Joe Wood",
+    "instruments": [
+      "vocals, guitar"
+    ]
+  },
+  {
+    "id": "member_453",
+    "type": "member",
+    "name": "Mitch Dean",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_454",
+    "type": "member",
+    "name": "Chip Hanna",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_455",
+    "type": "member",
+    "name": "Duane Peters",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_456",
+    "type": "member",
+    "name": "Brandon Meunier",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_457",
+    "type": "member",
+    "name": "Dave Barbee",
+    "description": "Dave \"DB\" Barbee.",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_458",
+    "type": "member",
+    "name": "Steve Davis",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_459",
+    "type": "member",
+    "name": "Phil Barber",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_460",
+    "type": "member",
+    "name": "Kerry Martinez",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_461",
+    "type": "member",
+    "name": "Steve Reynolds",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_462",
+    "type": "member",
+    "name": "Chuck Briggs",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_463",
+    "type": "member",
+    "name": "Wade Walston",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_464",
+    "type": "member",
+    "name": "Aimee Interrupter",
+    "description": "Born Aimee Allen; one person, not two nodes.",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_465",
+    "type": "member",
+    "name": "Justin Bivona",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_466",
+    "type": "member",
+    "name": "Jesse Bivona",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_467",
+    "type": "member",
+    "name": "Mike Palm",
+    "instruments": [
+      "guitar, vocals"
+    ]
+  },
+  {
+    "id": "member_468",
+    "type": "member",
+    "name": "Perry Giordano",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_469",
+    "type": "member",
+    "name": "Sandy Hanson",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_470",
+    "type": "member",
+    "name": "Scott Miller",
+    "instruments": [
+      "drums"
+    ]
+  },
+  {
+    "id": "member_471",
+    "type": "member",
+    "name": "James Levesque",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_472",
+    "type": "member",
+    "name": "Brent Liles",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_473",
+    "type": "member",
+    "name": "Sam Bolle",
+    "instruments": [
+      "bass"
+    ]
+  },
+  {
+    "id": "member_474",
+    "type": "member",
+    "name": "Mike Muir",
+    "instruments": [
+      "vocals"
+    ]
+  },
+  {
+    "id": "member_475",
+    "type": "member",
+    "name": "Jason Page",
+    "instruments": [
+      "guitar"
+    ]
+  },
+  {
+    "id": "member_476",
+    "type": "member",
+    "name": "Justin Thirsk",
+    "instruments": [
+      "vocals, drums"
     ]
   }
 ]

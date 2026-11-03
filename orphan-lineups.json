@@ -1,0 +1,2848 @@
+{
+  "nodes": [
+    {
+      "id": "b1",
+      "kind": "band",
+      "name": "The Supersuckers",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b2",
+      "kind": "band",
+      "name": "Fall Out Boy",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b3",
+      "kind": "band",
+      "name": "Simple Minds",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b4",
+      "kind": "band",
+      "name": "PUP",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b5",
+      "kind": "band",
+      "name": "I Prevail",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b6",
+      "kind": "band",
+      "name": "Sham 69",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b7",
+      "kind": "band",
+      "name": "Strung Out",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b8",
+      "kind": "band",
+      "name": "Pennywise",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b9",
+      "kind": "band",
+      "name": "The Black Pacific",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b10",
+      "kind": "band",
+      "name": "One Hit Wonder",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b11",
+      "kind": "band",
+      "name": "Tender Fury",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b12",
+      "kind": "band",
+      "name": "Ignite",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b13",
+      "kind": "band",
+      "name": "The Offspring",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b14",
+      "kind": "band",
+      "name": "Social Distortion",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b15",
+      "kind": "band",
+      "name": "H2O",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b16",
+      "kind": "band",
+      "name": "The Vandals",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b17",
+      "kind": "band",
+      "name": "Adolescents",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b18",
+      "kind": "band",
+      "name": "T.S.O.L.",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b19",
+      "kind": "band",
+      "name": "U.S. Bombs",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b20",
+      "kind": "band",
+      "name": "The Interrupters",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b21",
+      "kind": "band",
+      "name": "Agent Orange",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b22",
+      "kind": "band",
+      "name": "The Crew",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "b23",
+      "kind": "band",
+      "name": "Chaos Delivery Machine",
+      "bio": "",
+      "instruments": []
+    },
+    {
+      "id": "a1",
+      "kind": "artist",
+      "name": "Marty Chandler",
+      "bio": "\"Metal\" Marty Chandler.",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a2",
+      "kind": "artist",
+      "name": "Christopher von Streicher",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a3",
+      "kind": "artist",
+      "name": "Ron Heathman",
+      "bio": "Ron \"Rontrose\" Heathman.",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a4",
+      "kind": "artist",
+      "name": "Dan Siegel",
+      "bio": "Also known as Dancing Eagle.",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a5",
+      "kind": "artist",
+      "name": "Scott Churilla",
+      "bio": "Scott \"Scottzilla\" Churilla.",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a6",
+      "kind": "artist",
+      "name": "Eric Martin",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a7",
+      "kind": "artist",
+      "name": "Patrick Stump",
+      "bio": "",
+      "instruments": [
+        "vocals, rhythm guitar"
+      ]
+    },
+    {
+      "id": "a8",
+      "kind": "artist",
+      "name": "Pete Wentz",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a9",
+      "kind": "artist",
+      "name": "Joe Trohman",
+      "bio": "",
+      "instruments": [
+        "lead guitar"
+      ]
+    },
+    {
+      "id": "a10",
+      "kind": "artist",
+      "name": "Andy Hurley",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a11",
+      "kind": "artist",
+      "name": "Mike Pareskuwicz",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a12",
+      "kind": "artist",
+      "name": "T.J. Kunasch",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a13",
+      "kind": "artist",
+      "name": "Brandon Hamm",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a14",
+      "kind": "artist",
+      "name": "Ben Rose",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a15",
+      "kind": "artist",
+      "name": "John Flamandan",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a16",
+      "kind": "artist",
+      "name": "Jim Kerr",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a17",
+      "kind": "artist",
+      "name": "Charlie Burchill",
+      "bio": "",
+      "instruments": [
+        "guitar, keyboards"
+      ]
+    },
+    {
+      "id": "a18",
+      "kind": "artist",
+      "name": "Mick MacNeil",
+      "bio": "",
+      "instruments": [
+        "keyboards"
+      ]
+    },
+    {
+      "id": "a19",
+      "kind": "artist",
+      "name": "Derek Forbes",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a20",
+      "kind": "artist",
+      "name": "Brian McGee",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a21",
+      "kind": "artist",
+      "name": "Mel Gaynor",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a22",
+      "kind": "artist",
+      "name": "John Giblin",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a23",
+      "kind": "artist",
+      "name": "Stefan Babcock",
+      "bio": "",
+      "instruments": [
+        "vocals, rhythm guitar"
+      ]
+    },
+    {
+      "id": "a24",
+      "kind": "artist",
+      "name": "Steve Sladkowski",
+      "bio": "",
+      "instruments": [
+        "lead guitar"
+      ]
+    },
+    {
+      "id": "a25",
+      "kind": "artist",
+      "name": "Nestor Chumak",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a26",
+      "kind": "artist",
+      "name": "Zack Mykula",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a27",
+      "kind": "artist",
+      "name": "Eric Vanlerberghe",
+      "bio": "",
+      "instruments": [
+        "lead vocals"
+      ]
+    },
+    {
+      "id": "a28",
+      "kind": "artist",
+      "name": "Steve Menoian",
+      "bio": "",
+      "instruments": [
+        "lead guitar"
+      ]
+    },
+    {
+      "id": "a29",
+      "kind": "artist",
+      "name": "Dylan Bowman",
+      "bio": "",
+      "instruments": [
+        "rhythm guitar"
+      ]
+    },
+    {
+      "id": "a30",
+      "kind": "artist",
+      "name": "Gabe Helguera",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a31",
+      "kind": "artist",
+      "name": "Jon Eberhard",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a32",
+      "kind": "artist",
+      "name": "Brian Burkheiser",
+      "bio": "",
+      "instruments": [
+        "clean vocals"
+      ]
+    },
+    {
+      "id": "a33",
+      "kind": "artist",
+      "name": "Jordan Berger",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a34",
+      "kind": "artist",
+      "name": "Tony Camposeo",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a35",
+      "kind": "artist",
+      "name": "Lee Runestad",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a36",
+      "kind": "artist",
+      "name": "Jimmy Pursey",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a37",
+      "kind": "artist",
+      "name": "Dave Parsons",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a38",
+      "kind": "artist",
+      "name": "Dave Tregunna",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a39",
+      "kind": "artist",
+      "name": "Spike T. Smith",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a40",
+      "kind": "artist",
+      "name": "Neil Harris",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a41",
+      "kind": "artist",
+      "name": "Albie Slider",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a42",
+      "kind": "artist",
+      "name": "Mark Cain",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a43",
+      "kind": "artist",
+      "name": "Ricky Goldstein",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a44",
+      "kind": "artist",
+      "name": "Ian Whitewood",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a45",
+      "kind": "artist",
+      "name": "Robin Guy",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a46",
+      "kind": "artist",
+      "name": "Mat Sargent",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a47",
+      "kind": "artist",
+      "name": "Jason Cruz",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a48",
+      "kind": "artist",
+      "name": "Rob Ramos",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a49",
+      "kind": "artist",
+      "name": "Chris Aiken",
+      "bio": "",
+      "instruments": [
+        "bass, guitar"
+      ]
+    },
+    {
+      "id": "a50",
+      "kind": "artist",
+      "name": "Daniel Blume",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a51",
+      "kind": "artist",
+      "name": "Derik Envy",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a52",
+      "kind": "artist",
+      "name": "Jake Kiley",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a53",
+      "kind": "artist",
+      "name": "Jordan Burns",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a54",
+      "kind": "artist",
+      "name": "Jim Cherry",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a55",
+      "kind": "artist",
+      "name": "RJ Shankle",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a56",
+      "kind": "artist",
+      "name": "Adam Austin",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a57",
+      "kind": "artist",
+      "name": "Brad Morrison",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a58",
+      "kind": "artist",
+      "name": "Jim Lindberg",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a59",
+      "kind": "artist",
+      "name": "Fletcher Dragge",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a60",
+      "kind": "artist",
+      "name": "Byron McMackin",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a61",
+      "kind": "artist",
+      "name": "Randy Bradbury",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a62",
+      "kind": "artist",
+      "name": "Jason Thirsk",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a63",
+      "kind": "artist",
+      "name": "Zoltán Téglás",
+      "bio": "Known as Zoli Téglás.",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a64",
+      "kind": "artist",
+      "name": "Alan Vega",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a65",
+      "kind": "artist",
+      "name": "Davey Latter",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a66",
+      "kind": "artist",
+      "name": "Gavin Caswell",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a67",
+      "kind": "artist",
+      "name": "Marc Orrell",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a68",
+      "kind": "artist",
+      "name": "Dan Root",
+      "bio": "",
+      "instruments": [
+        "vocals, guitar"
+      ]
+    },
+    {
+      "id": "a69",
+      "kind": "artist",
+      "name": "Chris Webb",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a70",
+      "kind": "artist",
+      "name": "Daniel Gadberry",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a71",
+      "kind": "artist",
+      "name": "Trey Pangborn",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a72",
+      "kind": "artist",
+      "name": "Robbie Allen",
+      "bio": "",
+      "instruments": [
+        "vocals, guitar"
+      ]
+    },
+    {
+      "id": "a73",
+      "kind": "artist",
+      "name": "Ray Rodriguez",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a74",
+      "kind": "artist",
+      "name": "Jack Grisham",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a75",
+      "kind": "artist",
+      "name": "Todd Barnes",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a76",
+      "kind": "artist",
+      "name": "Hunt Sales",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a77",
+      "kind": "artist",
+      "name": "Josh Freese",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a78",
+      "kind": "artist",
+      "name": "Frank Agnew",
+      "bio": "",
+      "instruments": [
+        "guitar, vocals"
+      ]
+    },
+    {
+      "id": "a79",
+      "kind": "artist",
+      "name": "Brett Rasmussen",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a80",
+      "kind": "artist",
+      "name": "Craig Anderson",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a81",
+      "kind": "artist",
+      "name": "Nik Hill",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a82",
+      "kind": "artist",
+      "name": "Eli Santana",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a83",
+      "kind": "artist",
+      "name": "Brian Balchack",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a84",
+      "kind": "artist",
+      "name": "Casey Jones",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a85",
+      "kind": "artist",
+      "name": "Joe Foster",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a86",
+      "kind": "artist",
+      "name": "Dexter Holland",
+      "bio": "",
+      "instruments": [
+        "vocals, guitar"
+      ]
+    },
+    {
+      "id": "a87",
+      "kind": "artist",
+      "name": "Noodles",
+      "bio": "",
+      "instruments": [
+        "lead guitar"
+      ]
+    },
+    {
+      "id": "a88",
+      "kind": "artist",
+      "name": "Todd Morse",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a89",
+      "kind": "artist",
+      "name": "Jonah Nimoy",
+      "bio": "",
+      "instruments": [
+        "multi-instrumentalist"
+      ]
+    },
+    {
+      "id": "a90",
+      "kind": "artist",
+      "name": "Brandon Pertzborn",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a91",
+      "kind": "artist",
+      "name": "Greg Kriesel",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a92",
+      "kind": "artist",
+      "name": "James Lilja",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a93",
+      "kind": "artist",
+      "name": "Ron Welty",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a94",
+      "kind": "artist",
+      "name": "Atom Willard",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a95",
+      "kind": "artist",
+      "name": "Pete Parada",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a96",
+      "kind": "artist",
+      "name": "Mike Ness",
+      "bio": "",
+      "instruments": [
+        "vocals, lead guitar"
+      ]
+    },
+    {
+      "id": "a97",
+      "kind": "artist",
+      "name": "Jonny Wickersham",
+      "bio": "Jonny \"2 Bags\" Wickersham.",
+      "instruments": [
+        "rhythm guitar"
+      ]
+    },
+    {
+      "id": "a98",
+      "kind": "artist",
+      "name": "Brent Harding",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a99",
+      "kind": "artist",
+      "name": "David Hidalgo Jr.",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a100",
+      "kind": "artist",
+      "name": "Dennis Danell",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a101",
+      "kind": "artist",
+      "name": "John Maurer",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a102",
+      "kind": "artist",
+      "name": "Christopher Reece",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a103",
+      "kind": "artist",
+      "name": "Charlie Quintana",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a104",
+      "kind": "artist",
+      "name": "Matt Freeman",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a105",
+      "kind": "artist",
+      "name": "Toby Morse",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a106",
+      "kind": "artist",
+      "name": "Rusty Pistachio",
+      "bio": "",
+      "instruments": [
+        "lead guitar"
+      ]
+    },
+    {
+      "id": "a107",
+      "kind": "artist",
+      "name": "Adam Blake",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a108",
+      "kind": "artist",
+      "name": "Matt Henderson",
+      "bio": "",
+      "instruments": [
+        "rhythm guitar"
+      ]
+    },
+    {
+      "id": "a109",
+      "kind": "artist",
+      "name": "Max Morse",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a110",
+      "kind": "artist",
+      "name": "Todd Friend",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a111",
+      "kind": "artist",
+      "name": "Eric Rice",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a112",
+      "kind": "artist",
+      "name": "Max Capshaw",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a113",
+      "kind": "artist",
+      "name": "Colin McGinnis",
+      "bio": "",
+      "instruments": [
+        "rhythm guitar"
+      ]
+    },
+    {
+      "id": "a114",
+      "kind": "artist",
+      "name": "Joe Escalante",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a115",
+      "kind": "artist",
+      "name": "Dave Quackenbush",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a116",
+      "kind": "artist",
+      "name": "Warren Fitzgerald",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a117",
+      "kind": "artist",
+      "name": "Stevo Jensen",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a118",
+      "kind": "artist",
+      "name": "Jan Nils Ackermann",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a119",
+      "kind": "artist",
+      "name": "Steve Pfauter",
+      "bio": "Steve \"Human\" Pfauter.",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a120",
+      "kind": "artist",
+      "name": "Tony Reflex",
+      "bio": "Also known as Tony Cadena; one person, not two nodes.",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a121",
+      "kind": "artist",
+      "name": "Mike Cambra",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a122",
+      "kind": "artist",
+      "name": "Ian Taylor",
+      "bio": "",
+      "instruments": [
+        "rhythm guitar"
+      ]
+    },
+    {
+      "id": "a123",
+      "kind": "artist",
+      "name": "Brad Logan",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a124",
+      "kind": "artist",
+      "name": "Steve Soto",
+      "bio": "",
+      "instruments": [
+        "bass, vocals"
+      ]
+    },
+    {
+      "id": "a125",
+      "kind": "artist",
+      "name": "Rikk Agnew",
+      "bio": "",
+      "instruments": [
+        "guitar, vocals"
+      ]
+    },
+    {
+      "id": "a126",
+      "kind": "artist",
+      "name": "Casey Royer",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a127",
+      "kind": "artist",
+      "name": "Derek O'Brien",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a128",
+      "kind": "artist",
+      "name": "Pat Smear",
+      "bio": "",
+      "instruments": [
+        "rhythm guitar"
+      ]
+    },
+    {
+      "id": "a129",
+      "kind": "artist",
+      "name": "Ron Emory",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a130",
+      "kind": "artist",
+      "name": "Mike Roche",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a131",
+      "kind": "artist",
+      "name": "Greg Kuehn",
+      "bio": "",
+      "instruments": [
+        "piano, synths"
+      ]
+    },
+    {
+      "id": "a132",
+      "kind": "artist",
+      "name": "Antonio Val Hernandez",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a133",
+      "kind": "artist",
+      "name": "Joe Wood",
+      "bio": "",
+      "instruments": [
+        "vocals, guitar"
+      ]
+    },
+    {
+      "id": "a134",
+      "kind": "artist",
+      "name": "Mitch Dean",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a135",
+      "kind": "artist",
+      "name": "Chip Hanna",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a136",
+      "kind": "artist",
+      "name": "Duane Peters",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a137",
+      "kind": "artist",
+      "name": "Brandon Meunier",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a138",
+      "kind": "artist",
+      "name": "Dave Barbee",
+      "bio": "Dave \"DB\" Barbee.",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a139",
+      "kind": "artist",
+      "name": "Steve Davis",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a140",
+      "kind": "artist",
+      "name": "Phil Barber",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a141",
+      "kind": "artist",
+      "name": "Kerry Martinez",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a142",
+      "kind": "artist",
+      "name": "Steve Reynolds",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a143",
+      "kind": "artist",
+      "name": "Chuck Briggs",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a144",
+      "kind": "artist",
+      "name": "Wade Walston",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a145",
+      "kind": "artist",
+      "name": "Aimee Interrupter",
+      "bio": "Born Aimee Allen; one person, not two nodes.",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a146",
+      "kind": "artist",
+      "name": "Kevin Bivona",
+      "bio": "",
+      "instruments": [
+        "guitar, vocals"
+      ]
+    },
+    {
+      "id": "a147",
+      "kind": "artist",
+      "name": "Justin Bivona",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a148",
+      "kind": "artist",
+      "name": "Jesse Bivona",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a149",
+      "kind": "artist",
+      "name": "Mike Palm",
+      "bio": "",
+      "instruments": [
+        "guitar, vocals"
+      ]
+    },
+    {
+      "id": "a150",
+      "kind": "artist",
+      "name": "Perry Giordano",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a151",
+      "kind": "artist",
+      "name": "Sandy Hanson",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a152",
+      "kind": "artist",
+      "name": "Scott Miller",
+      "bio": "",
+      "instruments": [
+        "drums"
+      ]
+    },
+    {
+      "id": "a153",
+      "kind": "artist",
+      "name": "James Levesque",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a154",
+      "kind": "artist",
+      "name": "Brent Liles",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a155",
+      "kind": "artist",
+      "name": "Sam Bolle",
+      "bio": "",
+      "instruments": [
+        "bass"
+      ]
+    },
+    {
+      "id": "a156",
+      "kind": "artist",
+      "name": "Tim Armstrong",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a157",
+      "kind": "artist",
+      "name": "Mike Muir",
+      "bio": "",
+      "instruments": [
+        "vocals"
+      ]
+    },
+    {
+      "id": "a158",
+      "kind": "artist",
+      "name": "Jason Page",
+      "bio": "",
+      "instruments": [
+        "guitar"
+      ]
+    },
+    {
+      "id": "a159",
+      "kind": "artist",
+      "name": "Justin Thirsk",
+      "bio": "",
+      "instruments": [
+        "vocals, drums"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "a": "a1",
+      "b": "b1",
+      "kind": "member",
+      "role": "guitar",
+      "years": "2009-present"
+    },
+    {
+      "a": "a2",
+      "b": "b1",
+      "kind": "member",
+      "role": "drums",
+      "years": "2012-present"
+    },
+    {
+      "a": "a3",
+      "b": "b1",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1988-1995, 1996-2009"
+    },
+    {
+      "a": "a4",
+      "b": "b1",
+      "kind": "member",
+      "role": "drums",
+      "years": "1988-2003, 2008"
+    },
+    {
+      "a": "a5",
+      "b": "b1",
+      "kind": "member",
+      "role": "drums",
+      "years": "2006-2012"
+    },
+    {
+      "a": "a6",
+      "b": "b1",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1988-1989"
+    },
+    {
+      "a": "a7",
+      "b": "b2",
+      "kind": "member",
+      "role": "vocals, rhythm guitar",
+      "years": "2001-2009, 2013-present"
+    },
+    {
+      "a": "a8",
+      "b": "b2",
+      "kind": "member",
+      "role": "bass",
+      "years": "2001-2009, 2013-present"
+    },
+    {
+      "a": "a9",
+      "b": "b2",
+      "kind": "member",
+      "role": "lead guitar",
+      "years": "2001-2009, 2013-present"
+    },
+    {
+      "a": "a10",
+      "b": "b2",
+      "kind": "member",
+      "role": "drums",
+      "years": "2003-2009, 2013-present"
+    },
+    {
+      "a": "a11",
+      "b": "b2",
+      "kind": "member",
+      "role": "drums",
+      "years": "2001-2003"
+    },
+    {
+      "a": "a12",
+      "b": "b2",
+      "kind": "member",
+      "role": "guitar",
+      "years": "2001-2002"
+    },
+    {
+      "a": "a13",
+      "b": "b2",
+      "kind": "member",
+      "role": "guitar",
+      "years": "2002"
+    },
+    {
+      "a": "a14",
+      "b": "b2",
+      "kind": "member",
+      "role": "drums",
+      "years": "2001"
+    },
+    {
+      "a": "a15",
+      "b": "b2",
+      "kind": "member",
+      "role": "guitar",
+      "years": "2001"
+    },
+    {
+      "a": "a16",
+      "b": "b3",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1977-present"
+    },
+    {
+      "a": "a17",
+      "b": "b3",
+      "kind": "member",
+      "role": "guitar, keyboards",
+      "years": "1977-present"
+    },
+    {
+      "a": "a18",
+      "b": "b3",
+      "kind": "member",
+      "role": "keyboards",
+      "years": "1978-1990"
+    },
+    {
+      "a": "a19",
+      "b": "b3",
+      "kind": "member",
+      "role": "bass",
+      "years": "1978-1985, 1996-1998"
+    },
+    {
+      "a": "a20",
+      "b": "b3",
+      "kind": "member",
+      "role": "drums",
+      "years": "1977-1981"
+    },
+    {
+      "a": "a21",
+      "b": "b3",
+      "kind": "member",
+      "role": "drums",
+      "years": "1982-1988, 1989-1991, 1997-1998, 2002-2017"
+    },
+    {
+      "a": "a22",
+      "b": "b3",
+      "kind": "member",
+      "role": "bass"
+    },
+    {
+      "a": "a23",
+      "b": "b4",
+      "kind": "member",
+      "role": "vocals, rhythm guitar",
+      "years": "2010-present"
+    },
+    {
+      "a": "a24",
+      "b": "b4",
+      "kind": "member",
+      "role": "lead guitar",
+      "years": "2010-present"
+    },
+    {
+      "a": "a25",
+      "b": "b4",
+      "kind": "member",
+      "role": "bass",
+      "years": "2010-present"
+    },
+    {
+      "a": "a26",
+      "b": "b4",
+      "kind": "member",
+      "role": "drums",
+      "years": "2010-present"
+    },
+    {
+      "a": "a27",
+      "b": "b5",
+      "kind": "member",
+      "role": "lead vocals",
+      "years": "2013-present"
+    },
+    {
+      "a": "a28",
+      "b": "b5",
+      "kind": "member",
+      "role": "lead guitar",
+      "years": "2013-present"
+    },
+    {
+      "a": "a29",
+      "b": "b5",
+      "kind": "member",
+      "role": "rhythm guitar",
+      "years": "2015-present"
+    },
+    {
+      "a": "a30",
+      "b": "b5",
+      "kind": "member",
+      "role": "drums",
+      "years": "2019-present"
+    },
+    {
+      "a": "a31",
+      "b": "b5",
+      "kind": "member",
+      "role": "bass",
+      "years": "2025-present"
+    },
+    {
+      "a": "a32",
+      "b": "b5",
+      "kind": "member",
+      "role": "clean vocals",
+      "years": "2013-2025"
+    },
+    {
+      "a": "a33",
+      "b": "b5",
+      "kind": "member",
+      "role": "guitar",
+      "years": "2013-2015"
+    },
+    {
+      "a": "a34",
+      "b": "b5",
+      "kind": "member",
+      "role": "bass",
+      "years": "2014-2016"
+    },
+    {
+      "a": "a35",
+      "b": "b5",
+      "kind": "member",
+      "role": "drums",
+      "years": "2013-2017"
+    },
+    {
+      "a": "a36",
+      "b": "b6",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1975-1980, 1987-2006, 2011-present"
+    },
+    {
+      "a": "a37",
+      "b": "b6",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1977-1980, 1987-present"
+    },
+    {
+      "a": "a38",
+      "b": "b6",
+      "kind": "member",
+      "role": "bass",
+      "years": "1977-1980, 2011-present"
+    },
+    {
+      "a": "a39",
+      "b": "b6",
+      "kind": "member",
+      "role": "drums",
+      "years": "2023-present"
+    },
+    {
+      "a": "a40",
+      "b": "b6",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1975-1977"
+    },
+    {
+      "a": "a41",
+      "b": "b6",
+      "kind": "member",
+      "role": "bass",
+      "years": "1975-1977"
+    },
+    {
+      "a": "a42",
+      "b": "b6",
+      "kind": "member",
+      "role": "drums",
+      "years": "1977-1979"
+    },
+    {
+      "a": "a43",
+      "b": "b6",
+      "kind": "member",
+      "role": "drums",
+      "years": "1979-1980"
+    },
+    {
+      "a": "a44",
+      "b": "b6",
+      "kind": "member",
+      "role": "drums",
+      "years": "1987-2011"
+    },
+    {
+      "a": "a45",
+      "b": "b6",
+      "kind": "member",
+      "role": "drums",
+      "years": "2012-2023"
+    },
+    {
+      "a": "a46",
+      "b": "b6",
+      "kind": "member",
+      "role": "bass",
+      "years": "1994-2006"
+    },
+    {
+      "a": "a47",
+      "b": "b7",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1991-present"
+    },
+    {
+      "a": "a48",
+      "b": "b7",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1991-present"
+    },
+    {
+      "a": "a49",
+      "b": "b7",
+      "kind": "member",
+      "role": "bass, guitar",
+      "years": "1999-present"
+    },
+    {
+      "a": "a50",
+      "b": "b7",
+      "kind": "member",
+      "role": "drums",
+      "years": "2022-present"
+    },
+    {
+      "a": "a51",
+      "b": "b7",
+      "kind": "member",
+      "role": "bass",
+      "years": "2024-present"
+    },
+    {
+      "a": "a52",
+      "b": "b7",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1993-2024"
+    },
+    {
+      "a": "a53",
+      "b": "b7",
+      "kind": "member",
+      "role": "drums",
+      "years": "1993-2018"
+    },
+    {
+      "a": "a54",
+      "b": "b7",
+      "kind": "member",
+      "role": "bass",
+      "years": "1991-1999"
+    },
+    {
+      "a": "a55",
+      "b": "b7",
+      "kind": "member",
+      "role": "drums",
+      "years": "2018-2022"
+    },
+    {
+      "a": "a56",
+      "b": "b7",
+      "kind": "member",
+      "role": "drums",
+      "years": "1991-1992"
+    },
+    {
+      "a": "a57",
+      "b": "b7",
+      "kind": "member",
+      "role": "drums",
+      "years": "1992-1993"
+    },
+    {
+      "a": "a58",
+      "b": "b8",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1988-2009, 2012-present"
+    },
+    {
+      "a": "a59",
+      "b": "b8",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1988-present"
+    },
+    {
+      "a": "a60",
+      "b": "b8",
+      "kind": "member",
+      "role": "drums",
+      "years": "1988-present"
+    },
+    {
+      "a": "a61",
+      "b": "b8",
+      "kind": "member",
+      "role": "bass",
+      "years": "1992, 1996-present"
+    },
+    {
+      "a": "a62",
+      "b": "b8",
+      "kind": "member",
+      "role": "bass",
+      "years": "1988-1996"
+    },
+    {
+      "a": "a63",
+      "b": "b8",
+      "kind": "member",
+      "role": "vocals",
+      "years": "2010-2012"
+    },
+    {
+      "a": "a58",
+      "b": "b9",
+      "kind": "member",
+      "role": "vocals, guitar",
+      "years": "2010-2012, 2024-present"
+    },
+    {
+      "a": "a64",
+      "b": "b9",
+      "kind": "member",
+      "role": "drums",
+      "years": "2010-2012, 2024-present"
+    },
+    {
+      "a": "a65",
+      "b": "b9",
+      "kind": "member",
+      "role": "bass",
+      "years": "2010"
+    },
+    {
+      "a": "a66",
+      "b": "b9",
+      "kind": "member",
+      "role": "bass",
+      "years": "2010-2012"
+    },
+    {
+      "a": "a67",
+      "b": "b9",
+      "kind": "member",
+      "role": "guitar",
+      "years": "2010-2012"
+    },
+    {
+      "a": "a68",
+      "b": "b10",
+      "kind": "member",
+      "role": "vocals, guitar"
+    },
+    {
+      "a": "a69",
+      "b": "b10",
+      "kind": "member",
+      "role": "drums"
+    },
+    {
+      "a": "a70",
+      "b": "b10",
+      "kind": "member",
+      "role": "bass"
+    },
+    {
+      "a": "a71",
+      "b": "b10",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a61",
+      "b": "b10",
+      "kind": "member",
+      "role": "bass",
+      "years": "1993-1996"
+    },
+    {
+      "a": "a72",
+      "b": "b10",
+      "kind": "member",
+      "role": "vocals, guitar"
+    },
+    {
+      "a": "a73",
+      "b": "b10",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a74",
+      "b": "b11",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1988-1993"
+    },
+    {
+      "a": "a75",
+      "b": "b11",
+      "kind": "member",
+      "role": "drums",
+      "years": "1988-1990"
+    },
+    {
+      "a": "a72",
+      "b": "b11",
+      "kind": "member",
+      "role": "bass",
+      "years": "1988-1990"
+    },
+    {
+      "a": "a68",
+      "b": "b11",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1988-1993"
+    },
+    {
+      "a": "a76",
+      "b": "b11",
+      "kind": "member",
+      "role": "drums",
+      "years": "1990-1991"
+    },
+    {
+      "a": "a61",
+      "b": "b11",
+      "kind": "member",
+      "role": "bass",
+      "years": "1990-1993"
+    },
+    {
+      "a": "a77",
+      "b": "b11",
+      "kind": "member",
+      "role": "drums",
+      "years": "1991"
+    },
+    {
+      "a": "a78",
+      "b": "b11",
+      "kind": "member",
+      "role": "guitar, vocals",
+      "years": "1991-1992"
+    },
+    {
+      "a": "a69",
+      "b": "b11",
+      "kind": "member",
+      "role": "drums",
+      "years": "1991-1993"
+    },
+    {
+      "a": "a79",
+      "b": "b12",
+      "kind": "member",
+      "role": "bass",
+      "years": "1993-present"
+    },
+    {
+      "a": "a80",
+      "b": "b12",
+      "kind": "member",
+      "role": "drums",
+      "years": "1997-present"
+    },
+    {
+      "a": "a81",
+      "b": "b12",
+      "kind": "member",
+      "role": "guitar",
+      "years": "2000, 2003, 2005-2015, 2018-present"
+    },
+    {
+      "a": "a82",
+      "b": "b12",
+      "kind": "member",
+      "role": "vocals",
+      "years": "2020-present"
+    },
+    {
+      "a": "a63",
+      "b": "b12",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1994-2019"
+    },
+    {
+      "a": "a83",
+      "b": "b12",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1998-2000, 2005-2019"
+    },
+    {
+      "a": "a84",
+      "b": "b12",
+      "kind": "member",
+      "role": "drums",
+      "years": "1993-1997"
+    },
+    {
+      "a": "a85",
+      "b": "b12",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1993-1998"
+    },
+    {
+      "a": "a86",
+      "b": "b13",
+      "kind": "member",
+      "role": "vocals, guitar",
+      "years": "1984-present"
+    },
+    {
+      "a": "a87",
+      "b": "b13",
+      "kind": "member",
+      "role": "lead guitar",
+      "years": "1985-present"
+    },
+    {
+      "a": "a88",
+      "b": "b13",
+      "kind": "member",
+      "role": "bass",
+      "years": "2019-present"
+    },
+    {
+      "a": "a89",
+      "b": "b13",
+      "kind": "member",
+      "role": "multi-instrumentalist",
+      "years": "2023-present"
+    },
+    {
+      "a": "a90",
+      "b": "b13",
+      "kind": "member",
+      "role": "drums",
+      "years": "2023-present"
+    },
+    {
+      "a": "a91",
+      "b": "b13",
+      "kind": "member",
+      "role": "bass",
+      "years": "1984-2018"
+    },
+    {
+      "a": "a92",
+      "b": "b13",
+      "kind": "member",
+      "role": "drums",
+      "years": "1984-1987"
+    },
+    {
+      "a": "a93",
+      "b": "b13",
+      "kind": "member",
+      "role": "drums",
+      "years": "1987-2003"
+    },
+    {
+      "a": "a94",
+      "b": "b13",
+      "kind": "member",
+      "role": "drums",
+      "years": "2003-2007"
+    },
+    {
+      "a": "a95",
+      "b": "b13",
+      "kind": "member",
+      "role": "drums",
+      "years": "2007-2021"
+    },
+    {
+      "a": "a96",
+      "b": "b14",
+      "kind": "member",
+      "role": "vocals, lead guitar",
+      "years": "1978-present"
+    },
+    {
+      "a": "a97",
+      "b": "b14",
+      "kind": "member",
+      "role": "rhythm guitar",
+      "years": "2000-present"
+    },
+    {
+      "a": "a98",
+      "b": "b14",
+      "kind": "member",
+      "role": "bass"
+    },
+    {
+      "a": "a99",
+      "b": "b14",
+      "kind": "member",
+      "role": "drums",
+      "years": "2010-present"
+    },
+    {
+      "a": "a100",
+      "b": "b14",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1979-2000"
+    },
+    {
+      "a": "a101",
+      "b": "b14",
+      "kind": "member",
+      "role": "bass",
+      "years": "1984-2004"
+    },
+    {
+      "a": "a102",
+      "b": "b14",
+      "kind": "member",
+      "role": "drums",
+      "years": "1984-1994"
+    },
+    {
+      "a": "a103",
+      "b": "b14",
+      "kind": "member",
+      "role": "drums",
+      "years": "2000-2009"
+    },
+    {
+      "a": "a94",
+      "b": "b14",
+      "kind": "member",
+      "role": "drums",
+      "years": "2009-2010"
+    },
+    {
+      "a": "a104",
+      "b": "b14",
+      "kind": "member",
+      "role": "bass",
+      "years": "2004"
+    },
+    {
+      "a": "a105",
+      "b": "b15",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1994-present"
+    },
+    {
+      "a": "a106",
+      "b": "b15",
+      "kind": "member",
+      "role": "lead guitar",
+      "years": "1994-present"
+    },
+    {
+      "a": "a107",
+      "b": "b15",
+      "kind": "member",
+      "role": "bass",
+      "years": "1996-present"
+    },
+    {
+      "a": "a108",
+      "b": "b15",
+      "kind": "member",
+      "role": "rhythm guitar",
+      "years": "2022-present"
+    },
+    {
+      "a": "a109",
+      "b": "b15",
+      "kind": "member",
+      "role": "drums",
+      "years": "2022-present"
+    },
+    {
+      "a": "a88",
+      "b": "b15",
+      "kind": "member",
+      "role": "rhythm guitar",
+      "years": "1995-2015"
+    },
+    {
+      "a": "a110",
+      "b": "b15",
+      "kind": "member",
+      "role": "drums",
+      "years": "1996-2022"
+    },
+    {
+      "a": "a111",
+      "b": "b15",
+      "kind": "member",
+      "role": "bass",
+      "years": "1994-1996"
+    },
+    {
+      "a": "a112",
+      "b": "b15",
+      "kind": "member",
+      "role": "drums",
+      "years": "1994-1996"
+    },
+    {
+      "a": "a113",
+      "b": "b15",
+      "kind": "member",
+      "role": "rhythm guitar",
+      "years": "2015-2018"
+    },
+    {
+      "a": "a114",
+      "b": "b16",
+      "kind": "member",
+      "role": "bass",
+      "years": "1988-present"
+    },
+    {
+      "a": "a115",
+      "b": "b16",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1985-present"
+    },
+    {
+      "a": "a116",
+      "b": "b16",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1989-present"
+    },
+    {
+      "a": "a77",
+      "b": "b16",
+      "kind": "member",
+      "role": "drums",
+      "years": "1989-present"
+    },
+    {
+      "a": "a117",
+      "b": "b16",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1980-1984"
+    },
+    {
+      "a": "a118",
+      "b": "b16",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1980-1989"
+    },
+    {
+      "a": "a119",
+      "b": "b16",
+      "kind": "member",
+      "role": "bass",
+      "years": "1980-1984"
+    },
+    {
+      "a": "a120",
+      "b": "b17",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1980-1981, 1986-1988, 2001-present"
+    },
+    {
+      "a": "a68",
+      "b": "b17",
+      "kind": "member",
+      "role": "lead guitar",
+      "years": "2010-present"
+    },
+    {
+      "a": "a121",
+      "b": "b17",
+      "kind": "member",
+      "role": "drums",
+      "years": "2013-present"
+    },
+    {
+      "a": "a122",
+      "b": "b17",
+      "kind": "member",
+      "role": "rhythm guitar",
+      "years": "2014-present"
+    },
+    {
+      "a": "a123",
+      "b": "b17",
+      "kind": "member",
+      "role": "bass",
+      "years": "2018-present"
+    },
+    {
+      "a": "a124",
+      "b": "b17",
+      "kind": "member",
+      "role": "bass, vocals",
+      "years": "1980-1981, 1986-1989, 2001-2018"
+    },
+    {
+      "a": "a78",
+      "b": "b17",
+      "kind": "member",
+      "role": "lead guitar",
+      "years": "1980-1981, 1986, 1988-1989, 2001-2006"
+    },
+    {
+      "a": "a125",
+      "b": "b17",
+      "kind": "member",
+      "role": "guitar, vocals",
+      "years": "1980-1981, 1986-1989, 2001-2003"
+    },
+    {
+      "a": "a126",
+      "b": "b17",
+      "kind": "member",
+      "role": "drums",
+      "years": "1980-1981, 1986, 2001"
+    },
+    {
+      "a": "a127",
+      "b": "b17",
+      "kind": "member",
+      "role": "drums",
+      "years": "2001-2008"
+    },
+    {
+      "a": "a128",
+      "b": "b17",
+      "kind": "member",
+      "role": "rhythm guitar",
+      "years": "1981"
+    },
+    {
+      "a": "a74",
+      "b": "b18",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1978-1983, 1991, 1999-present"
+    },
+    {
+      "a": "a129",
+      "b": "b18",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1978-1988, 1991, 1999-present"
+    },
+    {
+      "a": "a130",
+      "b": "b18",
+      "kind": "member",
+      "role": "bass",
+      "years": "1978-1990, 1991, 1999-present"
+    },
+    {
+      "a": "a131",
+      "b": "b18",
+      "kind": "member",
+      "role": "piano, synths",
+      "years": "1982-1983, 2005-present"
+    },
+    {
+      "a": "a132",
+      "b": "b18",
+      "kind": "member",
+      "role": "drums",
+      "years": "2017-present"
+    },
+    {
+      "a": "a75",
+      "b": "b18",
+      "kind": "member",
+      "role": "drums",
+      "years": "1978-1983, 1991, 1999"
+    },
+    {
+      "a": "a133",
+      "b": "b18",
+      "kind": "member",
+      "role": "vocals, guitar",
+      "years": "1983-1999"
+    },
+    {
+      "a": "a134",
+      "b": "b18",
+      "kind": "member",
+      "role": "drums",
+      "years": "1983-1998"
+    },
+    {
+      "a": "a135",
+      "b": "b18",
+      "kind": "member",
+      "role": "drums",
+      "years": "2016-2017"
+    },
+    {
+      "a": "a136",
+      "b": "b19",
+      "kind": "member",
+      "role": "vocals",
+      "years": "1993-present"
+    },
+    {
+      "a": "a137",
+      "b": "b19",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a138",
+      "b": "b19",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a139",
+      "b": "b19",
+      "kind": "member",
+      "role": "bass"
+    },
+    {
+      "a": "a140",
+      "b": "b19",
+      "kind": "member",
+      "role": "drums"
+    },
+    {
+      "a": "a141",
+      "b": "b19",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a142",
+      "b": "b19",
+      "kind": "member",
+      "role": "bass",
+      "years": "1993-1997"
+    },
+    {
+      "a": "a143",
+      "b": "b19",
+      "kind": "member",
+      "role": "guitar",
+      "years": "1995-2000"
+    },
+    {
+      "a": "a144",
+      "b": "b19",
+      "kind": "member",
+      "role": "bass"
+    },
+    {
+      "a": "a135",
+      "b": "b19",
+      "kind": "member",
+      "role": "drums"
+    },
+    {
+      "a": "a97",
+      "b": "b19",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a145",
+      "b": "b20",
+      "kind": "member",
+      "role": "vocals",
+      "years": "2011-present"
+    },
+    {
+      "a": "a146",
+      "b": "b20",
+      "kind": "member",
+      "role": "guitar, vocals",
+      "years": "2011-present"
+    },
+    {
+      "a": "a147",
+      "b": "b20",
+      "kind": "member",
+      "role": "bass",
+      "years": "2011-present"
+    },
+    {
+      "a": "a148",
+      "b": "b20",
+      "kind": "member",
+      "role": "drums",
+      "years": "2011-present"
+    },
+    {
+      "a": "a149",
+      "b": "b21",
+      "kind": "member",
+      "role": "guitar, vocals",
+      "years": "1979-present"
+    },
+    {
+      "a": "a150",
+      "b": "b21",
+      "kind": "member",
+      "role": "bass",
+      "years": "2006-present"
+    },
+    {
+      "a": "a151",
+      "b": "b21",
+      "kind": "member",
+      "role": "drums",
+      "years": "2019-present"
+    },
+    {
+      "a": "a124",
+      "b": "b21",
+      "kind": "member",
+      "role": "bass",
+      "years": "1979"
+    },
+    {
+      "a": "a152",
+      "b": "b21",
+      "kind": "member",
+      "role": "drums",
+      "years": "1979-1989"
+    },
+    {
+      "a": "a153",
+      "b": "b21",
+      "kind": "member",
+      "role": "bass",
+      "years": "1979-1988"
+    },
+    {
+      "a": "a154",
+      "b": "b21",
+      "kind": "member",
+      "role": "bass",
+      "years": "1988-1991"
+    },
+    {
+      "a": "a127",
+      "b": "b21",
+      "kind": "member",
+      "role": "drums",
+      "years": "1989-1991"
+    },
+    {
+      "a": "a155",
+      "b": "b21",
+      "kind": "member",
+      "role": "bass",
+      "years": "1992-2003"
+    },
+    {
+      "a": "a103",
+      "b": "b21",
+      "kind": "member",
+      "role": "drums",
+      "years": "1996"
+    },
+    {
+      "a": "a156",
+      "b": "b22",
+      "kind": "member",
+      "role": "vocals"
+    },
+    {
+      "a": "a104",
+      "b": "b22",
+      "kind": "member",
+      "role": "bass"
+    },
+    {
+      "a": "a59",
+      "b": "b22",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a60",
+      "b": "b22",
+      "kind": "member",
+      "role": "drums"
+    },
+    {
+      "a": "a157",
+      "b": "b22",
+      "kind": "member",
+      "role": "vocals"
+    },
+    {
+      "a": "a158",
+      "b": "b23",
+      "kind": "member",
+      "role": "guitar"
+    },
+    {
+      "a": "a159",
+      "b": "b23",
+      "kind": "member",
+      "role": "vocals, drums"
+    },
+    {
+      "a": "a59",
+      "b": "b23",
+      "kind": "member",
+      "role": "bass"
+    }
+  ]
+}
